@@ -11,6 +11,7 @@
     <main class="main">
 
         <!-- Hero Section -->
+        <!-- Hero Section -->
         <section id="hero" class="hero section">
 
             <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -20,17 +21,17 @@
                         <div class="hero-content" data-aos="fade-up" data-aos-delay="200">
                             <div class="company-badge mb-4">
                                 <i class="bi bi-gear-fill me-2"></i>
-                                Working for your success
+                                Empowering your career success
                             </div>
 
                             <h1 class="mb-4">
-                                Elevate your career with<br>
+                                Accelerate Your Career with<br>
                                 <span class="accent-text">SV Infotech</span>
                             </h1>
 
                             <p class="mb-4 mb-md-5">
-                                At SV Infotech, we specialize in bridging the gap between education and industry by
-                                offering comprehensive industrial training in cutting-edge technologies.
+                                SV Infotech specializes in bridging the gap between education and industry by providing
+                                hands-on industrial training in the most in-demand technologies.
                             </p>
 
                             <div class="hero-buttons">
@@ -38,7 +39,7 @@
                                 <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8"
                                     class="btn btn-link mt-2 mt-sm-0 glightbox">
                                     <i class="bi bi-play-circle me-1"></i>
-                                    Play Video
+                                    Watch Our Story
                                 </a>
                             </div>
                         </div>
@@ -57,7 +58,7 @@
                                     <img src="assets/img/avatar-5.webp" alt="Customer 5" class="avatar">
                                     <span class="avatar more">12+</span>
                                 </div>
-                                <p class="mb-0 mt-2">12,000+ lorem ipsum dolor sit amet consectetur adipiscing elit</p>
+                                <p class="mb-0 mt-2">12,000+ students successfully trained for careers in tech</p>
                             </div>
                         </div>
                     </div>
@@ -70,8 +71,8 @@
                                 <i class="bi bi-trophy"></i>
                             </div>
                             <div class="stat-content">
-                                <h4>3x Won Awards</h4>
-                                <p class="mb-0">Vestibulum ante ipsum</p>
+                                <h4>3x Industry Awards</h4>
+                                <p class="mb-0">Recognized for excellence in training and technology</p>
                             </div>
                         </div>
                     </div>
@@ -81,8 +82,8 @@
                                 <i class="bi bi-briefcase"></i>
                             </div>
                             <div class="stat-content">
-                                <h4>6.5k Faucibus</h4>
-                                <p class="mb-0">Nullam quis ante</p>
+                                <h4>6,500+ Careers Launched</h4>
+                                <p class="mb-0">Training programs tailored for real-world success</p>
                             </div>
                         </div>
                     </div>
@@ -92,8 +93,8 @@
                                 <i class="bi bi-graph-up"></i>
                             </div>
                             <div class="stat-content">
-                                <h4>80k Mauris</h4>
-                                <p class="mb-0">Etiam sit amet orci</p>
+                                <h4>80,000+ Hours of Training</h4>
+                                <p class="mb-0">Industry-led, hands-on learning experiences</p>
                             </div>
                         </div>
                     </div>
@@ -103,8 +104,8 @@
                                 <i class="bi bi-award"></i>
                             </div>
                             <div class="stat-content">
-                                <h4>6x Phasellus</h4>
-                                <p class="mb-0">Vestibulum ante ipsum</p>
+                                <h4>6x Career Transformations</h4>
+                                <p class="mb-0">Empowering individuals to thrive in the tech industry</p>
                             </div>
                         </div>
                     </div>
@@ -113,6 +114,7 @@
             </div>
 
         </section><!-- /Hero Section -->
+
 
         <!-- About Section -->
         <section id="about" class="about section">
@@ -151,7 +153,8 @@
                             <div class="row gy-4">
                                 <div class="col-lg-5">
                                     <div class="profile d-flex align-items-center gap-3">
-                                        <img src="assets/img/avatar-1.webp" alt="CEO Profile" class="profile-image">
+                                        <img src="assets/img/testimonials/vs.jpg" alt="CEO Profile"
+                                            class="profile-image">
                                         <div>
                                             <h4 class="profile-name">Vineet Singh</h4>
                                             <p class="profile-position">CEO &amp; Founder</p>
@@ -192,12 +195,14 @@
         </section><!-- /About Section -->
 
         <!-- Features Section -->
+        <!-- Features Section -->
         <section id="features" class="features section">
 
             <!-- Section Title -->
             <div class="container section-title" data-aos="fade-up">
-                <h2>Features</h2>
-                <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+                <h2>Our Key Features</h2>
+                <p>Explore the features that make SV Infotech the leading choice for industrial training in the latest
+                    technologies.</p>
             </div><!-- End Section Title -->
 
             <div class="container">
@@ -205,22 +210,21 @@
                 <div class="d-flex justify-content-center">
 
                     <ul class="nav nav-tabs" data-aos="fade-up" data-aos-delay="100">
-
                         <li class="nav-item">
                             <a class="nav-link active show" data-bs-toggle="tab" data-bs-target="#features-tab-1">
-                                <h4>Modisit</h4>
+                                <h4>Hands-On Training</h4>
                             </a>
                         </li><!-- End tab nav item -->
 
                         <li class="nav-item">
                             <a class="nav-link" data-bs-toggle="tab" data-bs-target="#features-tab-2">
-                                <h4>Praesenti</h4>
+                                <h4>Industry Collaboration</h4>
                             </a><!-- End tab nav item -->
-
                         </li>
+
                         <li class="nav-item">
                             <a class="nav-link" data-bs-toggle="tab" data-bs-target="#features-tab-3">
-                                <h4>Explica</h4>
+                                <h4>Expert Instructors</h4>
                             </a>
                         </li><!-- End tab nav item -->
 
@@ -234,24 +238,23 @@
                         <div class="row">
                             <div
                                 class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center">
-                                <h3>Voluptatem dignissimos provident</h3>
+                                <h3>Hands-On Learning</h3>
                                 <p class="fst-italic">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore
-                                    magna aliqua.
+                                    Our programs emphasize practical experience to ensure that you are job-ready, with
+                                    real-world applications and projects.
                                 </p>
                                 <ul>
-                                    <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea
-                                            commodo consequat.</span></li>
-                                    <li><i class="bi bi-check2-all"></i> <span>Duis aute irure dolor in reprehenderit
-                                            in voluptate velit.</span></li>
-                                    <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea
-                                            commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                                            trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</span></li>
+                                    <li><i class="bi bi-check2-all"></i> <span>Engage in live projects and
+                                            workshops.</span></li>
+                                    <li><i class="bi bi-check2-all"></i> <span>Learn with industry-standard tools and
+                                            platforms.</span></li>
+                                    <li><i class="bi bi-check2-all"></i> <span>Simulate real-world challenges to
+                                            prepare for career success.</span></li>
                                 </ul>
                             </div>
                             <div class="col-lg-6 order-1 order-lg-2 text-center">
-                                <img src="assets/img/features-illustration-1.webp" alt="" class="img-fluid">
+                                <img src="assets/img/features-illustration-1.webp" alt="Hands-On Training"
+                                    class="img-fluid">
                             </div>
                         </div>
                     </div><!-- End tab content item -->
@@ -260,27 +263,23 @@
                         <div class="row">
                             <div
                                 class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center">
-                                <h3>Neque exercitationem debitis</h3>
+                                <h3>Industry Collaboration</h3>
                                 <p class="fst-italic">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore
-                                    magna aliqua.
+                                    We work with top industry players to ensure that our students gain insights into the
+                                    current demands and trends.
                                 </p>
                                 <ul>
-                                    <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea
-                                            commodo consequat.</span></li>
-                                    <li><i class="bi bi-check2-all"></i> <span>Duis aute irure dolor in reprehenderit
-                                            in voluptate velit.</span></li>
-                                    <li><i class="bi bi-check2-all"></i> <span>Provident mollitia neque rerum
-                                            asperiores dolores quos qui a. Ipsum neque dolor voluptate nisi sed.</span>
-                                    </li>
-                                    <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea
-                                            commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                                            trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</span></li>
+                                    <li><i class="bi bi-check2-all"></i> <span>Collaborations with leading tech
+                                            companies.</span></li>
+                                    <li><i class="bi bi-check2-all"></i> <span>Internship opportunities with industry
+                                            partners.</span></li>
+                                    <li><i class="bi bi-check2-all"></i> <span>Stay ahead with industry-relevant
+                                            curriculum.</span></li>
                                 </ul>
                             </div>
                             <div class="col-lg-6 order-1 order-lg-2 text-center">
-                                <img src="assets/img/features-illustration-2.webp" alt="" class="img-fluid">
+                                <img src="assets/img/features-illustration-2.webp" alt="Industry Collaboration"
+                                    class="img-fluid">
                             </div>
                         </div>
                     </div><!-- End tab content item -->
@@ -289,24 +288,23 @@
                         <div class="row">
                             <div
                                 class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center">
-                                <h3>Voluptatibus commodi accusamu</h3>
+                                <h3>Expert Instructors</h3>
                                 <ul>
-                                    <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea
-                                            commodo consequat.</span></li>
-                                    <li><i class="bi bi-check2-all"></i> <span>Duis aute irure dolor in reprehenderit
-                                            in voluptate velit.</span></li>
-                                    <li><i class="bi bi-check2-all"></i> <span>Provident mollitia neque rerum
-                                            asperiores dolores quos qui a. Ipsum neque dolor voluptate nisi sed.</span>
-                                    </li>
+                                    <li><i class="bi bi-check2-all"></i> <span>Learn from industry veterans with years
+                                            of experience.</span></li>
+                                    <li><i class="bi bi-check2-all"></i> <span>Gain insights into real-world challenges
+                                            from experts.</span></li>
+                                    <li><i class="bi bi-check2-all"></i> <span>Our instructors provide personalized
+                                            guidance for your career growth.</span></li>
                                 </ul>
                                 <p class="fst-italic">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore
-                                    magna aliqua.
+                                    Our instructors come from diverse backgrounds and industries, ensuring you receive
+                                    the best learning experience.
                                 </p>
                             </div>
                             <div class="col-lg-6 order-1 order-lg-2 text-center">
-                                <img src="assets/img/features-illustration-3.webp" alt="" class="img-fluid">
+                                <img src="assets/img/features-illustration-3.webp" alt="Expert Instructors"
+                                    class="img-fluid">
                             </div>
                         </div>
                     </div><!-- End tab content item -->
@@ -316,6 +314,7 @@
             </div>
 
         </section><!-- /Features Section -->
+
 
         <!-- Features Cards Section -->
         <section id="features-cards" class="features-cards section">
@@ -371,12 +370,13 @@
 
                     <div class="col-lg-4">
 
+                        <!-- Feature 1: Use On Any Device -->
                         <div class="feature-item text-end mb-5" data-aos="fade-right" data-aos-delay="200">
                             <div class="d-flex align-items-center justify-content-end gap-4">
                                 <div class="feature-content">
-                                    <h3>Use On Any Device</h3>
-                                    <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
-                                        Curae; In ac dui quis mi consectetuer lacinia.</p>
+                                    <h3>Accessible on Any Device</h3>
+                                    <p>Our platform is designed to work seamlessly on any device, ensuring you have
+                                        access to training materials wherever you are.</p>
                                 </div>
                                 <div class="feature-icon flex-shrink-0">
                                     <i class="bi bi-display"></i>
@@ -384,12 +384,13 @@
                             </div>
                         </div><!-- End .feature-item -->
 
+                        <!-- Feature 2: Feather Icons -->
                         <div class="feature-item text-end mb-5" data-aos="fade-right" data-aos-delay="300">
                             <div class="d-flex align-items-center justify-content-end gap-4">
                                 <div class="feature-content">
-                                    <h3>Feather Icons</h3>
-                                    <p>Phasellus ullamcorper ipsum rutrum nunc nunc nonummy metus vestibulum volutpat
-                                        sapien arcu sed augue aliquam erat volutpat.</p>
+                                    <h3>Interactive Learning with Icons</h3>
+                                    <p>We use modern design elements like Feather icons to enhance your learning
+                                        experience, making the platform more intuitive and engaging.</p>
                                 </div>
                                 <div class="feature-icon flex-shrink-0">
                                     <i class="bi bi-feather"></i>
@@ -397,12 +398,13 @@
                             </div>
                         </div><!-- End .feature-item -->
 
+                        <!-- Feature 3: Retina Ready -->
                         <div class="feature-item text-end" data-aos="fade-right" data-aos-delay="400">
                             <div class="d-flex align-items-center justify-content-end gap-4">
                                 <div class="feature-content">
-                                    <h3>Retina Ready</h3>
-                                    <p>Aenean tellus metus bibendum sed posuere ac mattis non nunc vestibulum fringilla
-                                        purus sit amet fermentum aenean commodo.</p>
+                                    <h3>Retina-Ready Display</h3>
+                                    <p>Experience clear, high-quality visuals with our retina-ready display on all
+                                        devices, ensuring crisp graphics for all training content.</p>
                                 </div>
                                 <div class="feature-icon flex-shrink-0">
                                     <i class="bi bi-eye"></i>
@@ -413,48 +415,52 @@
                     </div>
 
                     <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="200">
+                        <!-- Phone Mockup -->
                         <div class="phone-mockup text-center">
                             <img src="assets/img/phone-app-screen.webp" alt="Phone Mockup" class="img-fluid">
-                        </div>
+                        </div><!-- End Phone Mockup -->
                     </div><!-- End Phone Mockup -->
 
                     <div class="col-lg-4">
 
+                        <!-- Feature 4: W3C Valid Code -->
                         <div class="feature-item mb-5" data-aos="fade-left" data-aos-delay="200">
                             <div class="d-flex align-items-center gap-4">
                                 <div class="feature-icon flex-shrink-0">
                                     <i class="bi bi-code-square"></i>
                                 </div>
                                 <div class="feature-content">
-                                    <h3>W3c Valid Code</h3>
-                                    <p>Donec vitae sapien ut libero venenatis faucibus nullam quis ante etiam sit amet
-                                        orci eget eros faucibus tincidunt.</p>
+                                    <h3>W3C Valid Code</h3>
+                                    <p>We ensure all our code is W3C compliant, providing a clean, standards-based
+                                        foundation for web development.</p>
                                 </div>
                             </div>
                         </div><!-- End .feature-item -->
 
+                        <!-- Feature 5: Fully Responsive -->
                         <div class="feature-item mb-5" data-aos="fade-left" data-aos-delay="300">
                             <div class="d-flex align-items-center gap-4">
                                 <div class="feature-icon flex-shrink-0">
                                     <i class="bi bi-phone"></i>
                                 </div>
                                 <div class="feature-content">
-                                    <h3>Fully Responsive</h3>
-                                    <p>Maecenas tempus tellus eget condimentum rhoncus sem quam semper libero sit amet
-                                        adipiscing sem neque sed ipsum.</p>
+                                    <h3>Fully Responsive Design</h3>
+                                    <p>Our platforms are fully responsive, adapting to all screen sizes for a seamless
+                                        experience on mobile, tablet, and desktop devices.</p>
                                 </div>
                             </div>
                         </div><!-- End .feature-item -->
 
+                        <!-- Feature 6: Browser Compatibility -->
                         <div class="feature-item" data-aos="fade-left" data-aos-delay="400">
                             <div class="d-flex align-items-center gap-4">
                                 <div class="feature-icon flex-shrink-0">
                                     <i class="bi bi-browser-chrome"></i>
                                 </div>
                                 <div class="feature-content">
-                                    <h3>Browser Compatibility</h3>
-                                    <p>Nullam dictum felis eu pede mollis pretium integer tincidunt cras dapibus vivamus
-                                        elementum semper nisi aenean vulputate.</p>
+                                    <h3>Cross-Browser Compatibility</h3>
+                                    <p>Our platform is compatible with all major browsers, ensuring that you have a
+                                        consistent experience across different environments.</p>
                                 </div>
                             </div>
                         </div><!-- End .feature-item -->
@@ -466,6 +472,7 @@
 
         </section><!-- /Features 2 Section -->
 
+
         <!-- Call To Action Section -->
         <section id="call-to-action" class="call-to-action section">
 
@@ -473,10 +480,11 @@
 
                 <div class="row content justify-content-center align-items-center position-relative">
                     <div class="col-lg-8 mx-auto text-center">
-                        <h2 class="display-4 mb-4">Maecenas tempus tellus eget condimentum</h2>
-                        <p class="mb-4">Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere
-                            cubilia Curae; Donec velit neque, auctor sit amet aliquam vel</p>
-                        <a href="#" class="btn btn-cta">Call To Action</a>
+                        <h2 class="display-4 mb-4">Join Our Training Programs Today!</h2>
+                        <p class="mb-4">Whether you're looking to enhance your web development, app development, or
+                            software development skills, we have the perfect course for you. Take the first step toward
+                            advancing your career.</p>
+                        <a href="#" class="btn btn-cta">Get Started</a>
                     </div>
 
                     <!-- Abstract Background Elements -->
@@ -529,6 +537,7 @@
             </div>
 
         </section><!-- /Call To Action Section -->
+
 
         <!-- Clients Section -->
         <section id="clients" class="clients section">
@@ -609,8 +618,7 @@
 
                     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="testimonial-item">
-                            <img src="assets/img/testimonials/hs.jpg" class="testimonial-img"
-                                alt="Himanshu Singh">
+                            <img src="assets/img/testimonials/hs.jpg" class="testimonial-img" alt="Himanshu Singh">
                             <h3>Himanshu Singh</h3>
                             <h4>IT Expert</h4>
                             <div class="stars">
@@ -629,8 +637,7 @@
 
                     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
                         <div class="testimonial-item">
-                            <img src="assets/img/testimonials/vs.jpg" class="testimonial-img"
-                                alt="Vineet Singh">
+                            <img src="assets/img/testimonials/vs.jpg" class="testimonial-img" alt="Vineet Singh">
                             <h3>Vineet Singh</h3>
                             <h4>Director</h4>
                             <div class="stars">
@@ -649,8 +656,7 @@
 
                     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
                         <div class="testimonial-item">
-                            <img src="assets/img/testimonials/mp.jpg" class="testimonial-img"
-                                alt="Mrinal Pandey">
+                            <img src="assets/img/testimonials/mp.jpg" class="testimonial-img" alt="Mrinal Pandey">
                             <h3>Mrinal Pandey</h3>
                             <h4>AI & Data Science Expert</h4>
                             <div class="stars">
@@ -669,8 +675,7 @@
 
                     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="400">
                         <div class="testimonial-item">
-                            <img src="assets/img/testimonials/rk.jpg" class="testimonial-img"
-                                alt="R.K Pandey">
+                            <img src="assets/img/testimonials/rk.jpg" class="testimonial-img" alt="R.K Pandey">
                             <h3>R.K Pandey</h3>
                             <h4>Cybersecurity & Neural Network Expert</h4>
                             <div class="stars">
@@ -744,68 +749,73 @@
 
             <!-- Section Title -->
             <div class="container section-title" data-aos="fade-up">
-                <h2>Services</h2>
-                <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+                <h2>Our Services</h2>
+                <p>We provide high-quality training in various technology fields to enhance your skills and career
+                    prospects.</p>
             </div><!-- End Section Title -->
 
             <div class="container" data-aos="fade-up" data-aos-delay="100">
 
                 <div class="row g-4">
 
+                    <!-- Web Development Training -->
                     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="service-card d-flex">
                             <div class="icon flex-shrink-0">
-                                <i class="bi bi-activity"></i>
+                                <i class="bi bi-laptop"></i>
                             </div>
                             <div>
-                                <h3>Nesciunt Mete</h3>
-                                <p>Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus
-                                    dolores iure perferendis tempore et consequatur.</p>
+                                <h3>Web Development Training</h3>
+                                <p>Master modern web technologies such as HTML, CSS, JavaScript, and frameworks like
+                                    React and Laravel to build cutting-edge websites and applications.</p>
                                 <a href="service-details.html" class="read-more">Read More <i
                                         class="bi bi-arrow-right"></i></a>
                             </div>
                         </div>
                     </div><!-- End Service Card -->
 
+                    <!-- App Development Training -->
                     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
                         <div class="service-card d-flex">
                             <div class="icon flex-shrink-0">
-                                <i class="bi bi-diagram-3"></i>
+                                <i class="bi bi-phone"></i>
                             </div>
                             <div>
-                                <h3>Eosle Commodi</h3>
-                                <p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque
-                                    eum hic non ut nesciunt dolorem.</p>
+                                <h3>App Development Training</h3>
+                                <p>Learn how to create Android and iOS applications with Kotlin, Swift, and other
+                                    powerful tools, enabling you to build cross-platform solutions.</p>
                                 <a href="service-details.html" class="read-more">Read More <i
                                         class="bi bi-arrow-right"></i></a>
                             </div>
                         </div>
                     </div><!-- End Service Card -->
 
+                    <!-- Software Development Training -->
                     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
                         <div class="service-card d-flex">
                             <div class="icon flex-shrink-0">
-                                <i class="bi bi-easel"></i>
+                                <i class="bi bi-gear"></i>
                             </div>
                             <div>
-                                <h3>Ledo Markt</h3>
-                                <p>Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus ea aut. Vel qui id
-                                    voluptas adipisci eos earum corrupti.</p>
+                                <h3>Software Development Training</h3>
+                                <p>Get hands-on experience in building scalable and maintainable software applications
+                                    with popular programming languages like Java, Python, and PHP.</p>
                                 <a href="service-details.html" class="read-more">Read More <i
                                         class="bi bi-arrow-right"></i></a>
                             </div>
                         </div>
                     </div><!-- End Service Card -->
 
+                    <!-- IT Industry Training -->
                     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="400">
                         <div class="service-card d-flex">
                             <div class="icon flex-shrink-0">
-                                <i class="bi bi-clipboard-data"></i>
+                                <i class="bi bi-person-circle"></i>
                             </div>
                             <div>
-                                <h3>Asperiores Commodit</h3>
-                                <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea
-                                    fuga sit provident adipisci neque.</p>
+                                <h3>IT Industry Training</h3>
+                                <p>Gain industry-ready skills by learning from real-world projects and use cases,
+                                    enhancing your professional expertise in the competitive IT industry.</p>
                                 <a href="service-details.html" class="read-more">Read More <i
                                         class="bi bi-arrow-right"></i></a>
                             </div>
@@ -818,44 +828,44 @@
 
         </section><!-- /Services Section -->
 
+
         <!-- Pricing Section -->
         <section id="pricing" class="pricing section light-background">
 
             <!-- Section Title -->
             <div class="container section-title" data-aos="fade-up">
-                <h2>Pricing</h2>
-                <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+                <h2>Our Pricing Plans</h2>
+                <p>Choose the perfect plan that suits your training needs in web development, app development, and
+                    software development.</p>
             </div><!-- End Section Title -->
 
             <div class="container" data-aos="fade-up" data-aos-delay="100">
 
                 <div class="row g-4 justify-content-center">
 
-                    <!-- Basic Plan -->
+                    <!-- Web Development Plan -->
                     <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
                         <div class="pricing-card">
-                            <h3>Basic Plan</h3>
+                            <h3>Web Development Plan</h3>
                             <div class="price">
-                                <span class="currency">$</span>
-                                <span class="amount">9.9</span>
-                                <span class="period">/ month</span>
-                            </div>
-                            <p class="description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                                accusantium doloremque laudantium totam.</p>
 
-                            <h4>Featured Included:</h4>
+                            </div>
+                            <p class="description">Get started with the basics of web development, covering HTML, CSS,
+                                and JavaScript. Perfect for beginners.</p>
+
+                            <h4>Features Included:</h4>
                             <ul class="features-list">
                                 <li>
                                     <i class="bi bi-check-circle-fill"></i>
-                                    Duis aute irure dolor
+                                    HTML, CSS, and JavaScript Fundamentals
                                 </li>
                                 <li>
                                     <i class="bi bi-check-circle-fill"></i>
-                                    Excepteur sint occaecat
+                                    Responsive Web Design Techniques
                                 </li>
                                 <li>
                                     <i class="bi bi-check-circle-fill"></i>
-                                    Nemo enim ipsam voluptatem
+                                    Introduction to Web Development Tools
                                 </li>
                             </ul>
 
@@ -864,38 +874,36 @@
                                 <i class="bi bi-arrow-right"></i>
                             </a>
                         </div>
-                    </div>
+                    </div><!-- End Web Development Plan -->
 
-                    <!-- Standard Plan -->
+                    <!-- App Development Plan -->
                     <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
                         <div class="pricing-card popular">
-                            <div class="popular-badge">Most Popular</div>
-                            <h3>Standard Plan</h3>
+                            <div class="popular-badge">App Development</div>
+                            <h3>App Development Plan</h3>
                             <div class="price">
-                                <span class="currency">$</span>
-                                <span class="amount">19.9</span>
-                                <span class="period">/ month</span>
-                            </div>
-                            <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui
-                                blanditiis praesentium voluptatum.</p>
 
-                            <h4>Featured Included:</h4>
+                            </div>
+                            <p class="description">Develop Android and iOS apps with cross-platform tools and native
+                                development for mobile devices.</p>
+
+                            <h4>Features Included:</h4>
                             <ul class="features-list">
                                 <li>
                                     <i class="bi bi-check-circle-fill"></i>
-                                    Lorem ipsum dolor sit amet
+                                    Android & iOS App Development
                                 </li>
                                 <li>
                                     <i class="bi bi-check-circle-fill"></i>
-                                    Consectetur adipiscing elit
+                                    Cross-platform App Development Tools
                                 </li>
                                 <li>
                                     <i class="bi bi-check-circle-fill"></i>
-                                    Sed do eiusmod tempor
+                                    Building Real-World Mobile Apps
                                 </li>
                                 <li>
                                     <i class="bi bi-check-circle-fill"></i>
-                                    Ut labore et dolore magna
+                                    Testing & Debugging for Mobile Apps
                                 </li>
                             </ul>
 
@@ -904,41 +912,39 @@
                                 <i class="bi bi-arrow-right"></i>
                             </a>
                         </div>
-                    </div>
+                    </div><!-- End App Development Plan -->
 
-                    <!-- Premium Plan -->
+                    <!-- Software Development Plan -->
                     <div class="col-lg-4" data-aos="fade-up" data-aos-delay="300">
                         <div class="pricing-card">
-                            <h3>Premium Plan</h3>
+                            <h3>Software Development Plan</h3>
                             <div class="price">
-                                <span class="currency">$</span>
-                                <span class="amount">39.9</span>
-                                <span class="period">/ month</span>
-                            </div>
-                            <p class="description">Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse
-                                quam nihil molestiae.</p>
 
-                            <h4>Featured Included:</h4>
+                            </div>
+                            <p class="description">Dive deep into building scalable and efficient software applications
+                                using modern technologies like Java, Python, and PHP.</p>
+
+                            <h4>Features Included:</h4>
                             <ul class="features-list">
                                 <li>
                                     <i class="bi bi-check-circle-fill"></i>
-                                    Temporibus autem quibusdam
+                                    Advanced Programming Concepts
                                 </li>
                                 <li>
                                     <i class="bi bi-check-circle-fill"></i>
-                                    Saepe eveniet ut et voluptates
+                                    Software Design and Architecture
                                 </li>
                                 <li>
                                     <i class="bi bi-check-circle-fill"></i>
-                                    Nam libero tempore soluta
+                                    Testing, Debugging, and Deployment
                                 </li>
                                 <li>
                                     <i class="bi bi-check-circle-fill"></i>
-                                    Cumque nihil impedit quo
+                                    Building Real-World Software Projects
                                 </li>
                                 <li>
                                     <i class="bi bi-check-circle-fill"></i>
-                                    Maxime placeat facere possimus
+                                    Industry Best Practices
                                 </li>
                             </ul>
 
@@ -947,7 +953,7 @@
                                 <i class="bi bi-arrow-right"></i>
                             </a>
                         </div>
-                    </div>
+                    </div><!-- End Software Development Plan -->
 
                 </div>
 
@@ -955,126 +961,109 @@
 
         </section><!-- /Pricing Section -->
 
-        <!-- Faq Section -->
-        <section class="faq-9 faq section light-background" id="faq">
 
-            <div class="container">
-                <div class="row">
+        <!-- FAQ Section -->
+<section class="faq-9 faq section light-background" id="faq">
 
-                    <div class="col-lg-5" data-aos="fade-up">
-                        <h2 class="faq-title">Have a question? Check out the FAQ</h2>
-                        <p class="faq-description">Maecenas tempus tellus eget condimentum rhoncus sem quam semper
-                            libero sit amet adipiscing sem neque sed ipsum.</p>
-                        <div class="faq-arrow d-none d-lg-block" data-aos="fade-up" data-aos-delay="200">
-                            <svg class="faq-arrow" width="200" height="211" viewBox="0 0 200 211"
-                                fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <path
-                                    d="M198.804 194.488C189.279 189.596 179.529 185.52 169.407 182.07L169.384 182.049C169.227 181.994 169.07 181.939 168.912 181.884C166.669 181.139 165.906 184.546 167.669 185.615C174.053 189.473 182.761 191.837 189.146 195.695C156.603 195.912 119.781 196.591 91.266 179.049C62.5221 161.368 48.1094 130.695 56.934 98.891C84.5539 98.7247 112.556 84.0176 129.508 62.667C136.396 53.9724 146.193 35.1448 129.773 30.2717C114.292 25.6624 93.7109 41.8875 83.1971 51.3147C70.1109 63.039 59.63 78.433 54.2039 95.0087C52.1221 94.9842 50.0776 94.8683 48.0703 94.6608C30.1803 92.8027 11.2197 83.6338 5.44902 65.1074C-1.88449 41.5699 14.4994 19.0183 27.9202 1.56641C28.6411 0.625793 27.2862 -0.561638 26.5419 0.358501C13.4588 16.4098 -0.221091 34.5242 0.896608 56.5659C1.8218 74.6941 14.221 87.9401 30.4121 94.2058C37.7076 97.0203 45.3454 98.5003 53.0334 98.8449C47.8679 117.532 49.2961 137.487 60.7729 155.283C87.7615 197.081 139.616 201.147 184.786 201.155L174.332 206.827C172.119 208.033 174.345 211.287 176.537 210.105C182.06 207.125 187.582 204.122 193.084 201.144C193.346 201.147 195.161 199.887 195.423 199.868C197.08 198.548 193.084 201.144 195.528 199.81C196.688 199.192 197.846 198.552 199.006 197.935C200.397 197.167 200.007 195.087 198.804 194.488ZM60.8213 88.0427C67.6894 72.648 78.8538 59.1566 92.1207 49.0388C98.8475 43.9065 106.334 39.2953 114.188 36.1439C117.295 34.8947 120.798 33.6609 124.168 33.635C134.365 33.5511 136.354 42.9911 132.638 51.031C120.47 77.4222 86.8639 93.9837 58.0983 94.9666C58.8971 92.6666 59.783 90.3603 60.8213 88.0427Z"
-                                    fill="currentColor"></path>
-                            </svg>
+    <div class="container">
+        <div class="row">
+
+            <div class="col-lg-5" data-aos="fade-up">
+                <h2 class="faq-title">Have a question? Check out the FAQ</h2>
+                <p class="faq-description">Find answers to common questions about our training programs in Web Development, App Development, and Software Development.</p>
+                <div class="faq-arrow d-none d-lg-block" data-aos="fade-up" data-aos-delay="200">
+                    <svg class="faq-arrow" width="200" height="211" viewBox="0 0 200 211"
+                        fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path
+                            d="M198.804 194.488C189.279 189.596 179.529 185.52 169.407 182.07L169.384 182.049C169.227 181.994 169.07 181.939 168.912 181.884C166.669 181.139 165.906 184.546 167.669 185.615C174.053 189.473 182.761 191.837 189.146 195.695C156.603 195.912 119.781 196.591 91.266 179.049C62.5221 161.368 48.1094 130.695 56.934 98.891C84.5539 98.7247 112.556 84.0176 129.508 62.667C136.396 53.9724 146.193 35.1448 129.773 30.2717C114.292 25.6624 93.7109 41.8875 83.1971 51.3147C70.1109 63.039 59.63 78.433 54.2039 95.0087C52.1221 94.9842 50.0776 94.8683 48.0703 94.6608C30.1803 92.8027 11.2197 83.6338 5.44902 65.1074C-1.88449 41.5699 14.4994 19.0183 27.9202 1.56641C28.6411 0.625793 27.2862 -0.561638 26.5419 0.358501C13.4588 16.4098 -0.221091 34.5242 0.896608 56.5659C1.8218 74.6941 14.221 87.9401 30.4121 94.2058C37.7076 97.0203 45.3454 98.5003 53.0334 98.8449C47.8679 117.532 49.2961 137.487 60.7729 155.283C87.7615 197.081 139.616 201.147 184.786 201.155L174.332 206.827C172.119 208.033 174.345 211.287 176.537 210.105C182.06 207.125 187.582 204.122 193.084 201.144C193.346 201.147 195.161 199.887 195.423 199.868C197.08 198.548 193.084 201.144 195.528 199.81C196.688 199.192 197.846 198.552 199.006 197.935C200.397 197.167 200.007 195.087 198.804 194.488ZM60.8213 88.0427C67.6894 72.648 78.8538 59.1566 92.1207 49.0388C98.8475 43.9065 106.334 39.2953 114.188 36.1439C117.295 34.8947 120.798 33.6609 124.168 33.635C134.365 33.5511 136.354 42.9911 132.638 51.031C120.47 77.4222 86.8639 93.9837 58.0983 94.9666C58.8971 92.6666 59.783 90.3603 60.8213 88.0427Z"
+                            fill="currentColor"></path>
+                    </svg>
+                </div>
+            </div>
+
+            <div class="col-lg-7" data-aos="fade-up" data-aos-delay="300">
+                <div class="faq-container">
+
+                    <div class="faq-item faq-active">
+                        <h3>What is included in your Web Development training program?</h3>
+                        <div class="faq-content">
+                            <p>Our Web Development program covers HTML, CSS, JavaScript, responsive design, and the latest web development frameworks to ensure you can build modern, responsive websites.</p>
                         </div>
-                    </div>
+                        <i class="faq-toggle bi bi-chevron-right"></i>
+                    </div><!-- End Faq item-->
 
-                    <div class="col-lg-7" data-aos="fade-up" data-aos-delay="300">
-                        <div class="faq-container">
-
-                            <div class="faq-item faq-active">
-                                <h3>Non consectetur a erat nam at lectus urna duis?</h3>
-                                <div class="faq-content">
-                                    <p>Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus
-                                        laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor
-                                        rhoncus dolor purus non.</p>
-                                </div>
-                                <i class="faq-toggle bi bi-chevron-right"></i>
-                            </div><!-- End Faq item-->
-
-                            <div class="faq-item">
-                                <h3>Feugiat scelerisque varius morbi enim nunc faucibus?</h3>
-                                <div class="faq-content">
-                                    <p>Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id
-                                        interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus
-                                        scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim.
-                                        Mauris ultrices eros in cursus turpis massa tincidunt dui.</p>
-                                </div>
-                                <i class="faq-toggle bi bi-chevron-right"></i>
-                            </div><!-- End Faq item-->
-
-                            <div class="faq-item">
-                                <h3>Dolor sit amet consectetur adipiscing elit pellentesque?</h3>
-                                <div class="faq-content">
-                                    <p>Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci.
-                                        Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl
-                                        suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis
-                                        convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
-                                    </p>
-                                </div>
-                                <i class="faq-toggle bi bi-chevron-right"></i>
-                            </div><!-- End Faq item-->
-
-                            <div class="faq-item">
-                                <h3>Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla?</h3>
-                                <div class="faq-content">
-                                    <p>Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id
-                                        interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus
-                                        scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim.
-                                        Mauris ultrices eros in cursus turpis massa tincidunt dui.</p>
-                                </div>
-                                <i class="faq-toggle bi bi-chevron-right"></i>
-                            </div><!-- End Faq item-->
-
-                            <div class="faq-item">
-                                <h3>Tempus quam pellentesque nec nam aliquam sem et tortor?</h3>
-                                <div class="faq-content">
-                                    <p>Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse
-                                        in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl
-                                        suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in
-                                    </p>
-                                </div>
-                                <i class="faq-toggle bi bi-chevron-right"></i>
-                            </div><!-- End Faq item-->
-
-                            <div class="faq-item">
-                                <h3>Perspiciatis quod quo quos nulla quo illum ullam?</h3>
-                                <div class="faq-content">
-                                    <p>Enim ea facilis quaerat voluptas quidem et dolorem. Quis et consequatur non sed
-                                        in suscipit sequi. Distinctio ipsam dolore et.</p>
-                                </div>
-                                <i class="faq-toggle bi bi-chevron-right"></i>
-                            </div><!-- End Faq item-->
-
+                    <div class="faq-item">
+                        <h3>What mobile app platforms do you cover in the App Development program?</h3>
+                        <div class="faq-content">
+                            <p>Our App Development program includes both Android and iOS platforms, with an emphasis on cross-platform development tools like React Native and Flutter.</p>
                         </div>
-                    </div>
+                        <i class="faq-toggle bi bi-chevron-right"></i>
+                    </div><!-- End Faq item-->
+
+                    <div class="faq-item">
+                        <h3>What is the difference between the Web Development and Software Development programs?</h3>
+                        <div class="faq-content">
+                            <p>The Web Development program focuses on front-end and back-end web technologies, while the Software Development program dives deeper into languages like Java, Python, and C++ for creating desktop and enterprise applications.</p>
+                        </div>
+                        <i class="faq-toggle bi bi-chevron-right"></i>
+                    </div><!-- End Faq item-->
+
+                    <div class="faq-item">
+                        <h3>Do you offer job placement assistance after completing the training?</h3>
+                        <div class="faq-content">
+                            <p>Yes! We provide career support, including job placement assistance, resume building, and interview preparation, to help you land your first job in the industry.</p>
+                        </div>
+                        <i class="faq-toggle bi bi-chevron-right"></i>
+                    </div><!-- End Faq item-->
+
+                    <div class="faq-item">
+                        <h3>How long is each training program?</h3>
+                        <div class="faq-content">
+                            <p>Each training program typically lasts 3-6 months, depending on the course and your pace. You can choose between part-time and full-time schedules.</p>
+                        </div>
+                        <i class="faq-toggle bi bi-chevron-right"></i>
+                    </div><!-- End Faq item-->
+
+                    <div class="faq-item">
+                        <h3>Can I access the course materials after the program is over?</h3>
+                        <div class="faq-content">
+                            <p>Yes, you will have lifelong access to the course materials, including any updates and additional resources we provide after completion.</p>
+                        </div>
+                        <i class="faq-toggle bi bi-chevron-right"></i>
+                    </div><!-- End Faq item-->
 
                 </div>
             </div>
-        </section><!-- /Faq Section -->
+
+        </div>
+    </div>
+</section><!-- /FAQ Section -->
 
         <!-- Call To Action 2 Section -->
-        <section id="call-to-action-2" class="call-to-action-2 section dark-background">
+<section id="call-to-action-2" class="call-to-action-2 section dark-background">
 
-            <div class="container">
-                <div class="row justify-content-center" data-aos="zoom-in" data-aos-delay="100">
-                    <div class="col-xl-10">
-                        <div class="text-center">
-                            <h3>Call To Action</h3>
-                            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-                                nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
-                                officia deserunt mollit anim id est laborum.</p>
-                            <a class="cta-btn" href="#">Call To Action</a>
-                        </div>
-                    </div>
+    <div class="container">
+        <div class="row justify-content-center" data-aos="zoom-in" data-aos-delay="100">
+            <div class="col-xl-10">
+                <div class="text-center">
+                    <h3>Start Your Career in Tech Today</h3>
+                    <p>Ready to jumpstart your career in web development, app development, or software development? Join our industry-leading training programs and gain hands-on experience that prepares you for the workforce.</p>
+                    <a class="cta-btn" href="#">Enroll Now</a>
                 </div>
             </div>
+        </div>
+    </div>
 
-        </section><!-- /Call To Action 2 Section -->
+</section><!-- /Call To Action 2 Section -->
+
 
         <!-- Contact Section -->
         <section id="contact" class="contact section light-background">
 
             <!-- Section Title -->
             <div class="container section-title" data-aos="fade-up">
-                <h2>Contact</h2>
-                <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+                <h2>Contact Us</h2>
+                <p>Reach out to us for more information about our IT training programs and services.</p>
             </div><!-- End Section Title -->
 
             <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -1083,8 +1072,7 @@
                     <div class="col-lg-5">
                         <div class="info-box" data-aos="fade-up" data-aos-delay="200">
                             <h3>Contact Info</h3>
-                            <p>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante
-                                ipsum primis.</p>
+                            <p>We are happy to assist you with any questions about our training courses or services.</p>
 
                             <div class="info-item" data-aos="fade-up" data-aos-delay="300">
                                 <div class="icon-box">
@@ -1092,8 +1080,8 @@
                                 </div>
                                 <div class="content">
                                     <h4>Our Location</h4>
-                                    <p>A108 Adam Street</p>
-                                    <p>New York, NY 535022</p>
+                                    <p>11/42, Krishna Nagar</p>
+                                    <p>Kanpur, Uttar Pradesh 208007</p>
                                 </div>
                             </div>
 
@@ -1103,8 +1091,7 @@
                                 </div>
                                 <div class="content">
                                     <h4>Phone Number</h4>
-                                    <p>+1 5589 55488 55</p>
-                                    <p>+1 6678 254445 41</p>
+                                    <p>+91 914 0092 133</p>
                                 </div>
                             </div>
 
@@ -1114,8 +1101,7 @@
                                 </div>
                                 <div class="content">
                                     <h4>Email Address</h4>
-                                    <p>info@example.com</p>
-                                    <p>contact@example.com</p>
+                                    <p>info@svinfotech.com</p>
                                 </div>
                             </div>
                         </div>
@@ -1124,26 +1110,21 @@
                     <div class="col-lg-7">
                         <div class="contact-form" data-aos="fade-up" data-aos-delay="300">
                             <h3>Get In Touch</h3>
-                            <p>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante
-                                ipsum primis.</p>
+                            <p>Have any questions about our programs or want to know more? We'd love to hear from you.</p>
 
-                            <form action="forms/contact.php" method="post" class="php-email-form"
-                                data-aos="fade-up" data-aos-delay="200">
+                            <form action="forms/contact.php" method="post" class="php-email-form" data-aos="fade-up" data-aos-delay="200">
                                 <div class="row gy-4">
 
                                     <div class="col-md-6">
-                                        <input type="text" name="name" class="form-control"
-                                            placeholder="Your Name" required="">
+                                        <input type="text" name="name" class="form-control" placeholder="Your Name" required="">
                                     </div>
 
-                                    <div class="col-md-6 ">
-                                        <input type="email" class="form-control" name="email"
-                                            placeholder="Your Email" required="">
+                                    <div class="col-md-6">
+                                        <input type="email" class="form-control" name="email" placeholder="Your Email" required="">
                                     </div>
 
                                     <div class="col-12">
-                                        <input type="text" class="form-control" name="subject"
-                                            placeholder="Subject" required="">
+                                        <input type="text" class="form-control" name="subject" placeholder="Subject" required="">
                                     </div>
 
                                     <div class="col-12">
@@ -1170,91 +1151,10 @@
 
         </section><!-- /Contact Section -->
 
+
     </main>
 
-    <footer id="footer" class="footer">
-
-        <div class="container footer-top">
-            <div class="row gy-4">
-                <div class="col-lg-4 col-md-6 footer-about">
-                    <a href="index.html" class="logo d-flex align-items-center">
-                        <span class="sitename">iLanding</span>
-                    </a>
-                    <div class="footer-contact pt-3">
-                        <p>A108 Adam Street</p>
-                        <p>New York, NY 535022</p>
-                        <p class="mt-3"><strong>Phone:</strong> <span>+1 5589 55488 55</span></p>
-                        <p><strong>Email:</strong> <span>info@example.com</span></p>
-                    </div>
-                    <div class="social-links d-flex mt-4">
-                        <a href=""><i class="bi bi-twitter-x"></i></a>
-                        <a href=""><i class="bi bi-facebook"></i></a>
-                        <a href=""><i class="bi bi-instagram"></i></a>
-                        <a href=""><i class="bi bi-linkedin"></i></a>
-                    </div>
-                </div>
-
-                <div class="col-lg-2 col-md-3 footer-links">
-                    <h4>Useful Links</h4>
-                    <ul>
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">About us</a></li>
-                        <li><a href="#">Services</a></li>
-                        <li><a href="#">Terms of service</a></li>
-                        <li><a href="#">Privacy policy</a></li>
-                    </ul>
-                </div>
-
-                <div class="col-lg-2 col-md-3 footer-links">
-                    <h4>Our Services</h4>
-                    <ul>
-                        <li><a href="#">Web Design</a></li>
-                        <li><a href="#">Web Development</a></li>
-                        <li><a href="#">Product Management</a></li>
-                        <li><a href="#">Marketing</a></li>
-                        <li><a href="#">Graphic Design</a></li>
-                    </ul>
-                </div>
-
-                <div class="col-lg-2 col-md-3 footer-links">
-                    <h4>Hic solutasetp</h4>
-                    <ul>
-                        <li><a href="#">Molestiae accusamus iure</a></li>
-                        <li><a href="#">Excepturi dignissimos</a></li>
-                        <li><a href="#">Suscipit distinctio</a></li>
-                        <li><a href="#">Dilecta</a></li>
-                        <li><a href="#">Sit quas consectetur</a></li>
-                    </ul>
-                </div>
-
-                <div class="col-lg-2 col-md-3 footer-links">
-                    <h4>Nobis illum</h4>
-                    <ul>
-                        <li><a href="#">Ipsam</a></li>
-                        <li><a href="#">Laudantium dolorum</a></li>
-                        <li><a href="#">Dinera</a></li>
-                        <li><a href="#">Trodelas</a></li>
-                        <li><a href="#">Flexo</a></li>
-                    </ul>
-                </div>
-
-            </div>
-        </div>
-
-        <div class="container copyright text-center mt-4">
-            <p>© <span>Copyright</span> <strong class="px-1 sitename">iLanding</strong> <span>All Rights
-                    Reserved</span></p>
-            <div class="credits">
-                <!-- All the links in the footer should remain intact. -->
-                <!-- You can delete the links only if you've purchased the pro version. -->
-                <!-- Licensing information: https://bootstrapmade.com/license/ -->
-                <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
-                Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> Distributed By <a
-                    href="https://themewagon.com">ThemeWagon</a>
-            </div>
-        </div>
-
-    </footer>
+   @include('website.partials.footer')
 
     <!-- Scroll Top -->
     <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i
