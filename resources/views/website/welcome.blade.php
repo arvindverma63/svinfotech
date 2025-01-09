@@ -606,7 +606,7 @@
             <!-- Section Title -->
             <div class="container section-title" data-aos="fade-up">
                 <h2>Our Experts</h2>
-                <p>..............</p>
+                <p>Meet the passionate minds driving innovation at SV Infotech.</p>
             </div><!-- End Section Title -->
 
             <div class="container">
@@ -616,9 +616,9 @@
                     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="testimonial-item">
                             <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img"
-                                alt="John Doe">
+                                alt="Himanshu Singh">
                             <h3>Himanshu Singh</h3>
-                            <h4>Web Developer</h4>
+                            <h4>IT Expert</h4>
                             <div class="stars">
                                 <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
                                     class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
@@ -626,8 +626,8 @@
                             </div>
                             <p>
                                 <i class="bi bi-quote quote-icon-left"></i>
-                                <span>Joining SV Infotech was the best decision for my career. The hands-on training and
-                                    expert guidance helped me land my first job as a web developer.</span>
+                                <span>SV Infotech's extensive training sessions helped me become an IT expert, solving
+                                    complex problems efficiently.</span>
                                 <i class="bi bi-quote quote-icon-right"></i>
                             </p>
                         </div>
@@ -636,9 +636,9 @@
                     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
                         <div class="testimonial-item">
                             <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img"
-                                alt="Jane Smith">
+                                alt="Vineet Singh">
                             <h3>Vineet Singh</h3>
-                            <h4>Software Engineer</h4>
+                            <h4>Director</h4>
                             <div class="stars">
                                 <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
                                     class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
@@ -646,8 +646,8 @@
                             </div>
                             <p>
                                 <i class="bi bi-quote quote-icon-left"></i>
-                                <span>The training at SV Infotech exceeded my expectations. The real-world projects
-                                    prepared me to excel as a software engineer.</span>
+                                <span>Leading SV Infotech has been a journey of creating opportunities for aspiring
+                                    developers and professionals.</span>
                                 <i class="bi bi-quote quote-icon-right"></i>
                             </p>
                         </div>
@@ -656,9 +656,9 @@
                     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
                         <div class="testimonial-item">
                             <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img"
-                                alt="Michael Brown">
+                                alt="Mrinal Pandey">
                             <h3>Mrinal Pandey</h3>
-                            <h4>Freelance App Developer</h4>
+                            <h4>AI & Data Science Expert</h4>
                             <div class="stars">
                                 <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
                                     class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
@@ -666,8 +666,8 @@
                             </div>
                             <p>
                                 <i class="bi bi-quote quote-icon-left"></i>
-                                <span>SV Infotech gave me the confidence and skills to start my freelance journey. Their
-                                    support and mentorship were invaluable.</span>
+                                <span>SV Infotech equipped me with cutting-edge skills in AI and Data Science to stay
+                                    ahead in my field.</span>
                                 <i class="bi bi-quote quote-icon-right"></i>
                             </p>
                         </div>
@@ -676,9 +676,9 @@
                     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="400">
                         <div class="testimonial-item">
                             <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img"
-                                alt="Emily Davis">
-                            <h3>Emily Davis</h3>
-                            <h4>UI/UX Designer</h4>
+                                alt="R.K Pandey">
+                            <h3>R.K Pandey</h3>
+                            <h4>Cybersecurity & Neural Network Expert</h4>
                             <div class="stars">
                                 <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
                                     class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
@@ -686,8 +686,8 @@
                             </div>
                             <p>
                                 <i class="bi bi-quote quote-icon-left"></i>
-                                <span>The design training at SV Infotech was top-notch. I now create user-centric
-                                    designs that make an impact. Highly recommended!</span>
+                                <span>With SV Infotech's robust training, I mastered cybersecurity and neural networks
+                                    to tackle modern challenges.</span>
                                 <i class="bi bi-quote quote-icon-right"></i>
                             </p>
                         </div>
@@ -698,6 +698,7 @@
             </div>
 
         </section><!-- /Testimonials Section -->
+
 
         <!-- Stats Section -->
         <section id="stats" class="stats section">
@@ -721,8 +722,6 @@
                             <p>Completed Projects</p>
                         </div>
                     </div><!-- End Stats Item -->
-
-
 
                     <div class="col-lg-3 col-md-6">
                         <div class="stats-item text-center w-100 h-100">
@@ -982,7 +981,6 @@
                             </svg>
                         </div>
                     </div>
-
                     <div class="col-lg-7" data-aos="fade-up" data-aos-delay="300">
                         <div class="faq-container">
 
@@ -1049,7 +1047,6 @@
                                 </div>
                                 <i class="faq-toggle bi bi-chevron-right"></i>
                             </div><!-- End Faq item-->
-
                         </div>
                     </div>
 
