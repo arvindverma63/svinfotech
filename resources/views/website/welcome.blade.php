@@ -20,18 +20,17 @@
                         <div class="hero-content" data-aos="fade-up" data-aos-delay="200">
                             <div class="company-badge mb-4">
                                 <i class="bi bi-gear-fill me-2"></i>
-                                Empowering Your Future
+                                Working for your success
                             </div>
 
                             <h1 class="mb-4">
-                                Build Your Tech Career with<br>
+                                Elevate your career with<br>
                                 <span class="accent-text">SV Infotech</span>
                             </h1>
 
                             <p class="mb-4 mb-md-5">
-                                Join SV Infotech and transform your passion into a profession with our specialized
-                                industrial
-                                training programs in web development, app development, and software engineering.
+                                At SV Infotech, we specialize in bridging the gap between education and industry by
+                                offering comprehensive industrial training in cutting-edge technologies.
                             </p>
 
                             <div class="hero-buttons">
@@ -51,14 +50,14 @@
 
                             <div class="customers-badge">
                                 <div class="customer-avatars">
-                                    <img src="assets/img/avatar-1.webp" alt="Student 1" class="avatar">
-                                    <img src="assets/img/avatar-2.webp" alt="Student 2" class="avatar">
-                                    <img src="assets/img/avatar-3.webp" alt="Student 3" class="avatar">
-                                    <img src="assets/img/avatar-4.webp" alt="Student 4" class="avatar">
-                                    <img src="assets/img/avatar-5.webp" alt="Student 5" class="avatar">
-                                    <span class="avatar more">50+</span>
+                                    <img src="assets/img/avatar-1.webp" alt="Customer 1" class="avatar">
+                                    <img src="assets/img/avatar-2.webp" alt="Customer 2" class="avatar">
+                                    <img src="assets/img/avatar-3.webp" alt="Customer 3" class="avatar">
+                                    <img src="assets/img/avatar-4.webp" alt="Customer 4" class="avatar">
+                                    <img src="assets/img/avatar-5.webp" alt="Customer 5" class="avatar">
+                                    <span class="avatar more">12+</span>
                                 </div>
-                                <p class="mb-0 mt-2">50,000+ students trained to excel in the IT industry</p>
+                                <p class="mb-0 mt-2">12,000+ lorem ipsum dolor sit amet consectetur adipiscing elit</p>
                             </div>
                         </div>
                     </div>
@@ -71,8 +70,8 @@
                                 <i class="bi bi-trophy"></i>
                             </div>
                             <div class="stat-content">
-                                <h4>5x Awards Won</h4>
-                                <p class="mb-0">Recognized for excellence</p>
+                                <h4>3x Won Awards</h4>
+                                <p class="mb-0">Vestibulum ante ipsum</p>
                             </div>
                         </div>
                     </div>
@@ -82,8 +81,8 @@
                                 <i class="bi bi-briefcase"></i>
                             </div>
                             <div class="stat-content">
-                                <h4>10k Projects</h4>
-                                <p class="mb-0">Hands-on experience delivered</p>
+                                <h4>6.5k Faucibus</h4>
+                                <p class="mb-0">Nullam quis ante</p>
                             </div>
                         </div>
                     </div>
@@ -93,8 +92,8 @@
                                 <i class="bi bi-graph-up"></i>
                             </div>
                             <div class="stat-content">
-                                <h4>80k Students</h4>
-                                <p class="mb-0">Trained in tech skills</p>
+                                <h4>80k Mauris</h4>
+                                <p class="mb-0">Etiam sit amet orci</p>
                             </div>
                         </div>
                     </div>
@@ -104,8 +103,8 @@
                                 <i class="bi bi-award"></i>
                             </div>
                             <div class="stat-content">
-                                <h4>10+ Years</h4>
-                                <p class="mb-0">Of industrial training expertise</p>
+                                <h4>6x Phasellus</h4>
+                                <p class="mb-0">Vestibulum ante ipsum</p>
                             </div>
                         </div>
                     </div>
@@ -114,7 +113,6 @@
             </div>
 
         </section><!-- /Hero Section -->
-
 
         <!-- About Section -->
         <section id="about" class="about section">
@@ -198,9 +196,8 @@
 
             <!-- Section Title -->
             <div class="container section-title" data-aos="fade-up">
-                <h2>Why Choose Us?</h2>
-                <p>Explore the key features that make SV Infotech your trusted partner in industrial training and career
-                    growth.</p>
+                <h2>Features</h2>
+                <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
             </div><!-- End Section Title -->
 
             <div class="container">
@@ -211,19 +208,19 @@
 
                         <li class="nav-item">
                             <a class="nav-link active show" data-bs-toggle="tab" data-bs-target="#features-tab-1">
-                                <h4>Expert Trainers</h4>
+                                <h4>Modisit</h4>
                             </a>
                         </li><!-- End tab nav item -->
 
                         <li class="nav-item">
                             <a class="nav-link" data-bs-toggle="tab" data-bs-target="#features-tab-2">
-                                <h4>Practical Learning</h4>
+                                <h4>Praesenti</h4>
                             </a><!-- End tab nav item -->
 
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" data-bs-toggle="tab" data-bs-target="#features-tab-3">
-                                <h4>Career Support</h4>
+                                <h4>Explica</h4>
                             </a>
                         </li><!-- End tab nav item -->
 
@@ -237,23 +234,24 @@
                         <div class="row">
                             <div
                                 class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center">
-                                <h3>Learn from Industry Experts</h3>
+                                <h3>Voluptatem dignissimos provident</h3>
                                 <p class="fst-italic">
-                                    Our trainers bring real-world experience and in-depth knowledge to help you master
-                                    the latest technologies.
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                    incididunt ut labore et dolore
+                                    magna aliqua.
                                 </p>
                                 <ul>
-                                    <li><i class="bi bi-check2-all"></i> Hands-on training from certified
-                                        professionals.</li>
-                                    <li><i class="bi bi-check2-all"></i> Guidance in web development, app development,
-                                        and software engineering.</li>
-                                    <li><i class="bi bi-check2-all"></i> Personalized mentoring to ensure you achieve
-                                        your career goals.</li>
+                                    <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea
+                                            commodo consequat.</span></li>
+                                    <li><i class="bi bi-check2-all"></i> <span>Duis aute irure dolor in reprehenderit
+                                            in voluptate velit.</span></li>
+                                    <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea
+                                            commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+                                            trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</span></li>
                                 </ul>
                             </div>
                             <div class="col-lg-6 order-1 order-lg-2 text-center">
-                                <img src="assets/img/features-illustration-1.webp" alt="Expert Trainers"
-                                    class="img-fluid">
+                                <img src="assets/img/features-illustration-1.webp" alt="" class="img-fluid">
                             </div>
                         </div>
                     </div><!-- End tab content item -->
@@ -262,23 +260,27 @@
                         <div class="row">
                             <div
                                 class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center">
-                                <h3>Hands-On Practical Learning</h3>
+                                <h3>Neque exercitationem debitis</h3>
                                 <p class="fst-italic">
-                                    Gain real-world experience with live projects and practical assignments tailored to
-                                    industry needs.
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                    incididunt ut labore et dolore
+                                    magna aliqua.
                                 </p>
                                 <ul>
-                                    <li><i class="bi bi-check2-all"></i> Work on live projects to enhance your skills.
+                                    <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea
+                                            commodo consequat.</span></li>
+                                    <li><i class="bi bi-check2-all"></i> <span>Duis aute irure dolor in reprehenderit
+                                            in voluptate velit.</span></li>
+                                    <li><i class="bi bi-check2-all"></i> <span>Provident mollitia neque rerum
+                                            asperiores dolores quos qui a. Ipsum neque dolor voluptate nisi sed.</span>
                                     </li>
-                                    <li><i class="bi bi-check2-all"></i> Experience real-world scenarios with expert
-                                        guidance.</li>
-                                    <li><i class="bi bi-check2-all"></i> Interactive and engaging sessions for
-                                        effective learning.</li>
+                                    <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea
+                                            commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+                                            trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</span></li>
                                 </ul>
                             </div>
                             <div class="col-lg-6 order-1 order-lg-2 text-center">
-                                <img src="assets/img/features-illustration-2.webp" alt="Practical Learning"
-                                    class="img-fluid">
+                                <img src="assets/img/features-illustration-2.webp" alt="" class="img-fluid">
                             </div>
                         </div>
                     </div><!-- End tab content item -->
@@ -287,23 +289,24 @@
                         <div class="row">
                             <div
                                 class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center">
-                                <h3>Career Growth and Placement Support</h3>
-                                <p class="fst-italic">
-                                    Our dedicated placement cell ensures that you are industry-ready and helps you land
-                                    your dream job.
-                                </p>
+                                <h3>Voluptatibus commodi accusamu</h3>
                                 <ul>
-                                    <li><i class="bi bi-check2-all"></i> Resume building and interview preparation
-                                        workshops.</li>
-                                    <li><i class="bi bi-check2-all"></i> Strong connections with top IT companies for
-                                        placements.</li>
-                                    <li><i class="bi bi-check2-all"></i> Lifetime career support to guide you in your
-                                        professional journey.</li>
+                                    <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea
+                                            commodo consequat.</span></li>
+                                    <li><i class="bi bi-check2-all"></i> <span>Duis aute irure dolor in reprehenderit
+                                            in voluptate velit.</span></li>
+                                    <li><i class="bi bi-check2-all"></i> <span>Provident mollitia neque rerum
+                                            asperiores dolores quos qui a. Ipsum neque dolor voluptate nisi sed.</span>
+                                    </li>
                                 </ul>
+                                <p class="fst-italic">
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                    incididunt ut labore et dolore
+                                    magna aliqua.
+                                </p>
                             </div>
                             <div class="col-lg-6 order-1 order-lg-2 text-center">
-                                <img src="assets/img/features-illustration-3.webp" alt="Career Support"
-                                    class="img-fluid">
+                                <img src="assets/img/features-illustration-3.webp" alt="" class="img-fluid">
                             </div>
                         </div>
                     </div><!-- End tab content item -->
@@ -313,7 +316,6 @@
             </div>
 
         </section><!-- /Features Section -->
-
 
         <!-- Features Cards Section -->
         <section id="features-cards" class="features-cards section">
@@ -325,45 +327,40 @@
                     <div class="col-xl-3 col-md-6" data-aos="zoom-in" data-aos-delay="100">
                         <div class="feature-box orange">
                             <i class="bi bi-award"></i>
-                            <h4>Industry Recognition</h4>
-                            <p>Our training programs are certified and recognized by industry leaders, ensuring
-                                credibility and trust.</p>
+                            <h4>Corporis voluptates</h4>
+                            <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
                         </div>
-                    </div><!-- End Feature Box -->
+                    </div><!-- End Feature Borx-->
 
                     <div class="col-xl-3 col-md-6" data-aos="zoom-in" data-aos-delay="200">
                         <div class="feature-box blue">
                             <i class="bi bi-patch-check"></i>
-                            <h4>Quality Assurance</h4>
-                            <p>Comprehensive and structured courses designed to meet the highest standards of industrial
-                                training.</p>
+                            <h4>Explicabo consectetur</h4>
+                            <p>Est autem dicta beatae suscipit. Sint veritatis et sit quasi ab aut inventore</p>
                         </div>
-                    </div><!-- End Feature Box -->
+                    </div><!-- End Feature Borx-->
 
                     <div class="col-xl-3 col-md-6" data-aos="zoom-in" data-aos-delay="300">
                         <div class="feature-box green">
                             <i class="bi bi-sunrise"></i>
-                            <h4>Future-Ready Skills</h4>
-                            <p>Learn cutting-edge technologies that prepare you for tomorrow's challenges in the tech
-                                industry.</p>
+                            <h4>Ullamco laboris</h4>
+                            <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
                         </div>
-                    </div><!-- End Feature Box -->
+                    </div><!-- End Feature Borx-->
 
                     <div class="col-xl-3 col-md-6" data-aos="zoom-in" data-aos-delay="400">
                         <div class="feature-box red">
                             <i class="bi bi-shield-check"></i>
-                            <h4>Job Guarantee</h4>
-                            <p>Benefit from our strong placement network and get assistance in securing your dream job.
-                            </p>
+                            <h4>Labore consequatur</h4>
+                            <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
                         </div>
-                    </div><!-- End Feature Box -->
+                    </div><!-- End Feature Borx-->
 
                 </div>
 
             </div>
 
         </section><!-- /Features Cards Section -->
-
 
         <!-- Features 2 Section -->
         <section id="features-2" class="features-2 section">
@@ -377,9 +374,9 @@
                         <div class="feature-item text-end mb-5" data-aos="fade-right" data-aos-delay="200">
                             <div class="d-flex align-items-center justify-content-end gap-4">
                                 <div class="feature-content">
-                                    <h3>Multi-Device Access</h3>
-                                    <p>Learn from anywhere using laptops, tablets, or smartphones with seamless user
-                                        experiences on all devices.</p>
+                                    <h3>Use On Any Device</h3>
+                                    <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
+                                        Curae; In ac dui quis mi consectetuer lacinia.</p>
                                 </div>
                                 <div class="feature-icon flex-shrink-0">
                                     <i class="bi bi-display"></i>
@@ -390,9 +387,9 @@
                         <div class="feature-item text-end mb-5" data-aos="fade-right" data-aos-delay="300">
                             <div class="d-flex align-items-center justify-content-end gap-4">
                                 <div class="feature-content">
-                                    <h3>Interactive Resources</h3>
-                                    <p>Access a library of interactive resources, including coding challenges and
-                                        hands-on project templates.</p>
+                                    <h3>Feather Icons</h3>
+                                    <p>Phasellus ullamcorper ipsum rutrum nunc nunc nonummy metus vestibulum volutpat
+                                        sapien arcu sed augue aliquam erat volutpat.</p>
                                 </div>
                                 <div class="feature-icon flex-shrink-0">
                                     <i class="bi bi-feather"></i>
@@ -403,9 +400,9 @@
                         <div class="feature-item text-end" data-aos="fade-right" data-aos-delay="400">
                             <div class="d-flex align-items-center justify-content-end gap-4">
                                 <div class="feature-content">
-                                    <h3>High-Quality Content</h3>
-                                    <p>All courses and materials are designed with crystal-clear visuals and content
-                                        optimized for retina displays.</p>
+                                    <h3>Retina Ready</h3>
+                                    <p>Aenean tellus metus bibendum sed posuere ac mattis non nunc vestibulum fringilla
+                                        purus sit amet fermentum aenean commodo.</p>
                                 </div>
                                 <div class="feature-icon flex-shrink-0">
                                     <i class="bi bi-eye"></i>
@@ -429,9 +426,9 @@
                                     <i class="bi bi-code-square"></i>
                                 </div>
                                 <div class="feature-content">
-                                    <h3>Validated Code</h3>
-                                    <p>Learn industry-standard coding practices with courses that adhere to W3C
-                                        validation standards.</p>
+                                    <h3>W3c Valid Code</h3>
+                                    <p>Donec vitae sapien ut libero venenatis faucibus nullam quis ante etiam sit amet
+                                        orci eget eros faucibus tincidunt.</p>
                                 </div>
                             </div>
                         </div><!-- End .feature-item -->
@@ -442,9 +439,9 @@
                                     <i class="bi bi-phone"></i>
                                 </div>
                                 <div class="feature-content">
-                                    <h3>Responsive Design</h3>
-                                    <p>Gain expertise in creating mobile-friendly applications with responsive design
-                                        principles.</p>
+                                    <h3>Fully Responsive</h3>
+                                    <p>Maecenas tempus tellus eget condimentum rhoncus sem quam semper libero sit amet
+                                        adipiscing sem neque sed ipsum.</p>
                                 </div>
                             </div>
                         </div><!-- End .feature-item -->
@@ -455,9 +452,9 @@
                                     <i class="bi bi-browser-chrome"></i>
                                 </div>
                                 <div class="feature-content">
-                                    <h3>Cross-Browser Compatibility</h3>
-                                    <p>Learn how to ensure your websites and apps work seamlessly across all modern
-                                        browsers.</p>
+                                    <h3>Browser Compatibility</h3>
+                                    <p>Nullam dictum felis eu pede mollis pretium integer tincidunt cras dapibus vivamus
+                                        elementum semper nisi aenean vulputate.</p>
                                 </div>
                             </div>
                         </div><!-- End .feature-item -->
@@ -469,7 +466,6 @@
 
         </section><!-- /Features 2 Section -->
 
-
         <!-- Call To Action Section -->
         <section id="call-to-action" class="call-to-action section">
 
@@ -477,11 +473,10 @@
 
                 <div class="row content justify-content-center align-items-center position-relative">
                     <div class="col-lg-8 mx-auto text-center">
-                        <h2 class="display-4 mb-4">Empower Your Career with Industry-Leading Training</h2>
-                        <p class="mb-4">Join SV Infotech and get hands-on experience in web development, app
-                            development, and software development. Learn from experts and accelerate your career growth.
-                        </p>
-                        <a href="#contact" class="btn btn-cta">Get Started Today</a>
+                        <h2 class="display-4 mb-4">Maecenas tempus tellus eget condimentum</h2>
+                        <p class="mb-4">Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere
+                            cubilia Curae; Donec velit neque, auctor sit amet aliquam vel</p>
+                        <a href="#" class="btn btn-cta">Call To Action</a>
                     </div>
 
                     <!-- Abstract Background Elements -->
@@ -534,7 +529,6 @@
             </div>
 
         </section><!-- /Call To Action Section -->
-
 
         <!-- Clients Section -->
         <section id="clients" class="clients section">
@@ -615,7 +609,7 @@
 
                     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="testimonial-item">
-                            <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img"
+                            <img src="assets/img/testimonials/hs.jpg" class="testimonial-img"
                                 alt="Himanshu Singh">
                             <h3>Himanshu Singh</h3>
                             <h4>IT Expert</h4>
@@ -635,7 +629,7 @@
 
                     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
                         <div class="testimonial-item">
-                            <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img"
+                            <img src="assets/img/testimonials/vs.jpg" class="testimonial-img"
                                 alt="Vineet Singh">
                             <h3>Vineet Singh</h3>
                             <h4>Director</h4>
@@ -655,7 +649,7 @@
 
                     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
                         <div class="testimonial-item">
-                            <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img"
+                            <img src="assets/img/testimonials/mp.jpg" class="testimonial-img"
                                 alt="Mrinal Pandey">
                             <h3>Mrinal Pandey</h3>
                             <h4>AI & Data Science Expert</h4>
@@ -675,7 +669,7 @@
 
                     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="400">
                         <div class="testimonial-item">
-                            <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img"
+                            <img src="assets/img/testimonials/rk.jpg" class="testimonial-img"
                                 alt="R.K Pandey">
                             <h3>R.K Pandey</h3>
                             <h4>Cybersecurity & Neural Network Expert</h4>
@@ -709,33 +703,33 @@
 
                     <div class="col-lg-3 col-md-6">
                         <div class="stats-item text-center w-100 h-100">
-                            <span data-purecounter-start="0" data-purecounter-end="500" data-purecounter-duration="1"
+                            <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1"
                                 class="purecounter"></span>
-                            <p>Happy Students</p>
+                            <p>Clients</p>
                         </div>
                     </div><!-- End Stats Item -->
 
                     <div class="col-lg-3 col-md-6">
                         <div class="stats-item text-center w-100 h-100">
-                            <span data-purecounter-start="0" data-purecounter-end="200" data-purecounter-duration="1"
+                            <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1"
                                 class="purecounter"></span>
-                            <p>Completed Projects</p>
+                            <p>Projects</p>
                         </div>
                     </div><!-- End Stats Item -->
 
                     <div class="col-lg-3 col-md-6">
                         <div class="stats-item text-center w-100 h-100">
-                            <span data-purecounter-start="0" data-purecounter-end="2500"
+                            <span data-purecounter-start="0" data-purecounter-end="1453"
                                 data-purecounter-duration="1" class="purecounter"></span>
-                            <p>Hours of Training</p>
+                            <p>Hours Of Support</p>
                         </div>
                     </div><!-- End Stats Item -->
 
                     <div class="col-lg-3 col-md-6">
                         <div class="stats-item text-center w-100 h-100">
-                            <span data-purecounter-start="0" data-purecounter-end="50" data-purecounter-duration="1"
+                            <span data-purecounter-start="0" data-purecounter-end="32" data-purecounter-duration="1"
                                 class="purecounter"></span>
-                            <p>Industry Experts</p>
+                            <p>Workers</p>
                         </div>
                     </div><!-- End Stats Item -->
 
@@ -744,7 +738,6 @@
             </div>
 
         </section><!-- /Stats Section -->
-
 
         <!-- Services Section -->
         <section id="services" class="services section light-background">
@@ -981,6 +974,7 @@
                             </svg>
                         </div>
                     </div>
+
                     <div class="col-lg-7" data-aos="fade-up" data-aos-delay="300">
                         <div class="faq-container">
 
@@ -1047,6 +1041,7 @@
                                 </div>
                                 <i class="faq-toggle bi bi-chevron-right"></i>
                             </div><!-- End Faq item-->
+
                         </div>
                     </div>
 
