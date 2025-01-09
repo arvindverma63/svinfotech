@@ -46,10 +46,10 @@
                                                                 <div class="col">
                                                                     <!-- Location -->
                                                                     <div class="form-group">
-                                                                        <label for="location">Location <span
+                                                                        <label for="location">Type <span
                                                                                 class="text-danger">*</span></label>
                                                                         <input type="text" class="form-control"
-                                                                            id="location" name="location" value="{{$data->location}}" required>
+                                                                            id="location" name="location" value="{{$data->type}}" required>
                                                                     </div>
                                                                 </div>
                                                             </div>

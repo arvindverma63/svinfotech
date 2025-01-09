@@ -47,7 +47,7 @@
                                                                                {{$job->phoneNumber}}
                                                                             </td>
                                                                             <td>
-                                                                                <a href="{{ asset($job->resume) }}" class="btn btn-primary btn-sm" target="_blank">Resume</a>
+                                                                                <a href="{{ asset($job->image) }}" class="btn btn-primary btn-sm" target="_blank">Image</a>
 
                                                                                 <a href="{{ route('candidate.profile',$job->id) }}" class="btn btn-primary btn-sm">Profile</a>
                                                                             </td>

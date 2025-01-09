@@ -45,10 +45,16 @@
                                                                 <div class="col">
                                                                     <!-- Location -->
                                                                     <div class="form-group">
-                                                                        <label for="location">Location <span
+                                                                        <label for="type">Type <span
                                                                                 class="text-danger">*</span></label>
-                                                                        <input type="text" class="form-control"
-                                                                            id="location" name="location" required>
+                                                                        <select name="type" id="" class="form-control">
+                                                                            <option selected>------Select--------
+                                                                            </option>
+                                                                            <option value="Internship">Internship
+                                                                            </option>
+                                                                            <option value="Summer Trainning">Summer
+                                                                                Trainning</option>
+                                                                        </select>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -63,7 +69,8 @@
 
                                                             <div class="form-group">
                                                                 <input type="hidden" class="form-control"
-                                                                    id="name" name="name" value="JOB" required>
+                                                                    id="name" name="name" value="JOB"
+                                                                    required>
                                                             </div>
 
 
@@ -72,7 +79,8 @@
                                                             <div class="form-group">
                                                                 <label for="description">Description <span
                                                                         class="text-danger">*</span></label>
-                                                                <div id="description-editor" style="height: 200px;"></div>
+                                                                <div id="description-editor" style="height: 200px;">
+                                                                </div>
                                                                 <input type="hidden" name="description"
                                                                     id="description">
                                                             </div>
@@ -85,7 +93,7 @@
 
                                                                     <!-- Experience in Years -->
                                                                     <div class="form-group">
-                                                                        <label for="exInYear">Experience (Years) <span
+                                                                        <label for="exInYear">Duration (Years) <span
                                                                                 class="text-danger">*</span></label>
                                                                         <input type="number" class="form-control"
                                                                             id="exInYear" name="exInYear"
@@ -95,7 +103,7 @@
                                                                 <div class="col">
                                                                     <!-- Experience in Months -->
                                                                     <div class="form-group">
-                                                                        <label for="exInMonth">Experience (Months) <span
+                                                                        <label for="exInMonth">Duration (Months) <span
                                                                                 class="text-danger">*</span></label>
                                                                         <input type="number" class="form-control"
                                                                             id="exInMonth" name="exInMonth"
@@ -139,7 +147,8 @@
                                                     <p><strong>Details:</strong> <span id="previewDetails"></span></p>
                                                     <p><strong>Location:</strong> <span id="previewLocation"></span>
                                                     </p>
-                                                    <p style="border: 1px solid black; padding: 10px;"><strong>Description:</strong> <span
+                                                    <p style="border: 1px solid black; padding: 10px;">
+                                                        <strong>Description:</strong> <span
                                                             id="previewDescription"></span></p>
                                                     <p><strong>Experience:</strong> <span
                                                             id="previewExperience"></span></p>

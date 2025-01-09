@@ -4,7 +4,9 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Http\Controllers\JobController;
+use App\Models\AppliedCourse;
 use App\Models\AppliedJob;
+use App\Models\Course;
 use App\Models\Enquiry;
 use App\Models\Job;
 
@@ -23,9 +25,9 @@ class PageController extends Controller
     }
     public function job()
     {
-        $data = Job::all();
-        $total = Job::count();
-        $totalApplied = AppliedJob::count();
+        $data = Course::all();
+        $total = Course::count();
+        $totalApplied = AppliedCourse::count();
 
         return view('Admin.Job', ['data' => $data, 'total' => $total, 'totalApplied' => $totalApplied]);
     }
@@ -41,38 +43,10 @@ class PageController extends Controller
     {
         return view('website.welcome');
     }
-    public function company()
-    {
-        return view('company');
-    }
-    public function aboutTardus()
-    {
-        return view('company');
-    }
-    public function whyChooseUs()
-    {
-        return view('company');
-    }
-    public function methodology()
-    {
-        return view('company');
-    }
 
-    public function services()
-    {
-        return view('services');
-    }
-    public function solutions()
-    {
-        return view('solutions');
-    }
-    public function industries()
-    {
-        return view('industries');
-    }
     public function career()
     {
-        $data = Job::where('active', 1)->get();
+        $data = Course::where('active', 1)->get();
 
         if ($data->isEmpty()) {
             return view('career', [
@@ -132,7 +106,7 @@ class PageController extends Controller
         return view('Admin.setting');
     }
     public function editJob($id){
-        $data = Job::find($id);
+        $data = Course::find($id);
         return view('Admin.components.edit',['data'=>$data]);
     }
 }

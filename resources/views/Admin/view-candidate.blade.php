@@ -56,7 +56,7 @@
                                                             </div>
                                                             <div class="col-md-6 mb-3">
                                                                 <h6 class="text-primary"><i class="fas fa-briefcase"></i> Job ID</h6>
-                                                                <p class="text-dark font-weight-bold">{{ $data->jobId }}</p>
+                                                                <p class="text-dark font-weight-bold">{{ $data->courseId }}</p>
                                                             </div>
                                                         </div>
 
@@ -73,7 +73,7 @@
                                                         <!-- Resume Download Link -->
                                                         <div class="row mt-3">
                                                             <div class="col-md-12 text-center">
-                                                                <a href="{{ asset($data->resume) }}" class="btn btn-outline-primary" target="_blank">
+                                                                <a href="{{ asset($data->image) }}" class="btn btn-outline-primary" target="_blank">
                                                                     <i class="fas fa-download"></i> Download Resume
                                                                 </a>
                                                             </div>
