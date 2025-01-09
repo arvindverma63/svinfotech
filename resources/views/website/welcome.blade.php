@@ -47,15 +47,15 @@
 
                     <div class="col-lg-6">
                         <div class="hero-image" data-aos="zoom-out" data-aos-delay="300">
-                            <img src="assets/img/illustration-1.webp" alt="Hero Image" class="img-fluid">
+                            <img src="web/assets/img/illustration-1.webp" alt="Hero Image" class="img-fluid">
 
                             <div class="customers-badge">
                                 <div class="customer-avatars">
-                                    <img src="assets/img/avatar-1.webp" alt="Customer 1" class="avatar">
-                                    <img src="assets/img/avatar-2.webp" alt="Customer 2" class="avatar">
-                                    <img src="assets/img/avatar-3.webp" alt="Customer 3" class="avatar">
-                                    <img src="assets/img/avatar-4.webp" alt="Customer 4" class="avatar">
-                                    <img src="assets/img/avatar-5.webp" alt="Customer 5" class="avatar">
+                                    <img src="web/assets/img/avatar-1.webp" alt="Customer 1" class="avatar">
+                                    <img src="web/assets/img/avatar-2.webp" alt="Customer 2" class="avatar">
+                                    <img src="web/assets/img/avatar-3.webp" alt="Customer 3" class="avatar">
+                                    <img src="web/assets/img/avatar-4.webp" alt="Customer 4" class="avatar">
+                                    <img src="web/assets/img/avatar-5.webp" alt="Customer 5" class="avatar">
                                     <span class="avatar more">12+</span>
                                 </div>
                                 <p class="mb-0 mt-2">12,000+ students successfully trained for careers in tech</p>
@@ -153,7 +153,7 @@
                             <div class="row gy-4">
                                 <div class="col-lg-5">
                                     <div class="profile d-flex align-items-center gap-3">
-                                        <img src="assets/img/testimonials/vs.jpg" alt="CEO Profile"
+                                        <img src="web/assets/img/testimonials/vs.jpg" alt="CEO Profile"
                                             class="profile-image">
                                         <div>
                                             <h4 class="profile-name">Vineet Singh</h4>
@@ -177,9 +177,9 @@
                     <div class="col-xl-6" data-aos="fade-up" data-aos-delay="300">
                         <div class="image-wrapper">
                             <div class="images position-relative" data-aos="zoom-out" data-aos-delay="400">
-                                <img src="assets/img/about-5.webp" alt="Learning Session"
+                                <img src="web/assets/img/about-5.webp" alt="Learning Session"
                                     class="img-fluid main-image rounded-4">
-                                <img src="assets/img/about-2.webp" alt="Tech Workshop"
+                                <img src="web/assets/img/about-2.webp" alt="Tech Workshop"
                                     class="img-fluid small-image rounded-4">
                             </div>
                             <div class="experience-badge floating">
@@ -253,7 +253,7 @@
                                 </ul>
                             </div>
                             <div class="col-lg-6 order-1 order-lg-2 text-center">
-                                <img src="assets/img/features-illustration-1.webp" alt="Hands-On Training"
+                                <img src="web/assets/img/features-illustration-1.webp" alt="Hands-On Training"
                                     class="img-fluid">
                             </div>
                         </div>
@@ -278,7 +278,7 @@
                                 </ul>
                             </div>
                             <div class="col-lg-6 order-1 order-lg-2 text-center">
-                                <img src="assets/img/features-illustration-2.webp" alt="Industry Collaboration"
+                                <img src="web/assets/img/features-illustration-2.webp" alt="Industry Collaboration"
                                     class="img-fluid">
                             </div>
                         </div>
@@ -303,7 +303,7 @@
                                 </p>
                             </div>
                             <div class="col-lg-6 order-1 order-lg-2 text-center">
-                                <img src="assets/img/features-illustration-3.webp" alt="Expert Instructors"
+                                <img src="web/assets/img/features-illustration-3.webp" alt="Expert Instructors"
                                     class="img-fluid">
                             </div>
                         </div>
@@ -417,7 +417,7 @@
                     <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="200">
                         <!-- Phone Mockup -->
                         <div class="phone-mockup text-center">
-                            <img src="assets/img/phone-app-screen.webp" alt="Phone Mockup" class="img-fluid">
+                            <img src="web/assets/img/phone-app-screen.webp" alt="Phone Mockup" class="img-fluid">
                         </div><!-- End Phone Mockup -->
                     </div><!-- End Phone Mockup -->
 
@@ -579,21 +579,21 @@
             }
           </script>
                     <div class="swiper-wrapper align-items-center">
-                        <div class="swiper-slide"><img src="assets/img/clients/client-1.png" class="img-fluid"
+                        <div class="swiper-slide"><img src="web/assets/img/clients/client-1.png" class="img-fluid"
                                 alt=""></div>
-                        <div class="swiper-slide"><img src="assets/img/clients/client-2.png" class="img-fluid"
+                        <div class="swiper-slide"><img src="web/assets/img/clients/client-2.png" class="img-fluid"
                                 alt=""></div>
-                        <div class="swiper-slide"><img src="assets/img/clients/client-3.png" class="img-fluid"
+                        <div class="swiper-slide"><img src="web/assets/img/clients/client-3.png" class="img-fluid"
                                 alt=""></div>
-                        <div class="swiper-slide"><img src="assets/img/clients/client-4.png" class="img-fluid"
+                        <div class="swiper-slide"><img src="web/assets/img/clients/client-4.png" class="img-fluid"
                                 alt=""></div>
-                        <div class="swiper-slide"><img src="assets/img/clients/client-5.png" class="img-fluid"
+                        <div class="swiper-slide"><img src="web/assets/img/clients/client-5.png" class="img-fluid"
                                 alt=""></div>
-                        <div class="swiper-slide"><img src="assets/img/clients/client-6.png" class="img-fluid"
+                        <div class="swiper-slide"><img src="web/assets/img/clients/client-6.png" class="img-fluid"
                                 alt=""></div>
-                        <div class="swiper-slide"><img src="assets/img/clients/client-7.png" class="img-fluid"
+                        <div class="swiper-slide"><img src="web/assets/img/clients/client-7.png" class="img-fluid"
                                 alt=""></div>
-                        <div class="swiper-slide"><img src="assets/img/clients/client-8.png" class="img-fluid"
+                        <div class="swiper-slide"><img src="web/assets/img/clients/client-8.png" class="img-fluid"
                                 alt=""></div>
                     </div>
                     <div class="swiper-pagination"></div>
@@ -618,7 +618,7 @@
 
                     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="testimonial-item">
-                            <img src="assets/img/testimonials/hs.jpg" class="testimonial-img" alt="Himanshu Singh">
+                            <img src="web/assets/img/testimonials/hs.jpg" class="testimonial-img" alt="Himanshu Singh">
                             <h3>Himanshu Singh</h3>
                             <h4>IT Expert</h4>
                             <div class="stars">
@@ -637,7 +637,7 @@
 
                     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
                         <div class="testimonial-item">
-                            <img src="assets/img/testimonials/vs.jpg" class="testimonial-img" alt="Vineet Singh">
+                            <img src="web/assets/img/testimonials/vs.jpg" class="testimonial-img" alt="Vineet Singh">
                             <h3>Vineet Singh</h3>
                             <h4>Director</h4>
                             <div class="stars">
@@ -656,7 +656,7 @@
 
                     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
                         <div class="testimonial-item">
-                            <img src="assets/img/testimonials/mp.jpg" class="testimonial-img" alt="Mrinal Pandey">
+                            <img src="web/assets/img/testimonials/mp.jpg" class="testimonial-img" alt="Mrinal Pandey">
                             <h3>Mrinal Pandey</h3>
                             <h4>AI & Data Science Expert</h4>
                             <div class="stars">
@@ -675,7 +675,7 @@
 
                     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="400">
                         <div class="testimonial-item">
-                            <img src="assets/img/testimonials/rk.jpg" class="testimonial-img" alt="R.K Pandey">
+                            <img src="web/assets/img/testimonials/rk.jpg" class="testimonial-img" alt="R.K Pandey">
                             <h3>R.K Pandey</h3>
                             <h4>Cybersecurity & Neural Network Expert</h4>
                             <div class="stars">
