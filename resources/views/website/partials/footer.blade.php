@@ -7,10 +7,11 @@
                     <span class="sitename">SV Infotech</span>
                 </a>
                 <div class="footer-contact pt-3">
-                    <p>11/42, Krishna Nagar</p>
-                    <p>Kanpur, Uttar Pradesh 208007</p>
-                    <p class="mt-3"><strong>Phone:</strong> <span>+91 914 0092 133</span></p>
-                    <p><strong>Email:</strong> <span>info@svinfotech.com</span></p>
+                    <p> Vishambhar sadan 2 Lakhanpur Vikas Nagar                    </p>
+                    <p>Kanpur, Uttar Pradesh 208024</p>
+                    <p class="mt-3"><strong>Phone:</strong> <span>+91 9455157738</span></p>
+                    <p><strong>Email:</strong> <span>officialsv@svinfotech.co.in
+                    </span></p>
                 </div>
                 <div class="social-links d-flex mt-4">
                     <a href="#"><i class="bi bi-twitter"></i></a>
