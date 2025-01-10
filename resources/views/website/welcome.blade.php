@@ -1080,8 +1080,8 @@
                                 </div>
                                 <div class="content">
                                     <h4>Our Location</h4>
-                                    <p>11/42, Krishna Nagar</p>
-                                    <p>Kanpur, Uttar Pradesh 208007</p>
+                                    <p> Vishambhar sadan 2 Lakhanpur Vikas Nagar                                    </p>
+                                    <p>Kanpur, Uttar Pradesh 208024</p>
                                 </div>
                             </div>
 
@@ -1101,7 +1101,8 @@
                                 </div>
                                 <div class="content">
                                     <h4>Email Address</h4>
-                                    <p>info@svinfotech.com</p>
+                                    <p>officialsv@svinfotech.co.in
+                                    </p>
                                 </div>
                             </div>
                         </div>
