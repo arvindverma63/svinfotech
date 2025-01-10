@@ -166,7 +166,7 @@
                                         <i class="bi bi-telephone-fill"></i>
                                         <div>
                                             <p class="contact-label">Call us anytime</p>
-                                            <p class="contact-number">+91 914 0092 133</p>
+                                            <p class="contact-number">+91 9455157738</p>
                                         </div>
                                     </div>
                                 </div>
@@ -1091,7 +1091,7 @@
                                 </div>
                                 <div class="content">
                                     <h4>Phone Number</h4>
-                                    <p>+91 914 0092 133</p>
+                                    <p>+91 9455157738</p>
                                 </div>
                             </div>
 
