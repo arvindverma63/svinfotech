@@ -49,7 +49,7 @@
                                                                         <label for="location">Type <span
                                                                                 class="text-danger">*</span></label>
                                                                         <input type="text" class="form-control"
-                                                                            id="location" name="location" value="{{$data->type}}" required>
+                                                                            id="location" name="type" value="{{$data->type}}" required>
                                                                     </div>
                                                                 </div>
                                                             </div>

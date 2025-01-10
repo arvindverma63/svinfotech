@@ -43,33 +43,18 @@ class PageController extends Controller
     {
         return view('website.welcome');
     }
-
-    public function career()
-    {
-        $data = Course::where('active', 1)->get();
-
-        if ($data->isEmpty()) {
-            return view('career', [
-                'data' => [],
-                'message' => 'There are no jobs available at the moment.'
-            ]);
-        } else {
-            return view('career', ['data' => $data]);
-        }
-    }
-
     public function applyJob($id)
     {
-        $data = Job::find($id);
+        $data = Course::find($id);
 
         if (!$data) {
-            return view('applyJob', [
+            return view('website.applyCourse', [
                 'data' => null,
                 'message' => 'The job has expired.'
             ]);
         }
 
-        return view('applyJob', ['data' => $data]);
+        return view('website.applyCourse', ['data' => $data]);
     }
 
 
@@ -83,7 +68,7 @@ class PageController extends Controller
     }
     public function jobView($id)
     {
-        $job = Job::find($id);
+        $job = Course::find($id);
         if (!$job) {
             return redirect()->route('jobs.index')->with('error', 'Job not found.');
         }
@@ -92,7 +77,7 @@ class PageController extends Controller
 
     public function candidateProfile($id)
     {
-        $candidate = AppliedJob::find($id);
+        $candidate = AppliedCourse::find($id);
 
         if ($candidate) {
             return view('Admin.view-candidate', [
@@ -108,5 +93,17 @@ class PageController extends Controller
     public function editJob($id){
         $data = Course::find($id);
         return view('Admin.components.edit',['data'=>$data]);
+    }
+    public function course(){
+        $data = Course::where('active', 1)->get();
+
+        if ($data->isEmpty()) {
+            return view('career', [
+                'data' => [],
+                'message' => 'There are no jobs available at the moment.'
+            ]);
+        } else {
+            return view('website.courses',['data' => $data]);
+        }
     }
 }

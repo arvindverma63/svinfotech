@@ -20,9 +20,11 @@ class AppliedCourseController extends Controller
             'email' => 'required|email',
             'phoneNumber' => 'required|string',
             'details' => 'nullable|string',
-            'resume' => 'required|file|mimes:pdf|max:2048',
+            'image' => 'required|image|max:2048',
             'qualification' => 'required|string',
-            'jobId' => 'required|integer',
+            'courseId' => 'required|integer',
+            'address' => 'required|string',
+            'college' => 'required|string',
         ]);
 
         Log::info('Validation passed', ['data' => $validated]);
@@ -51,6 +53,8 @@ class AppliedCourseController extends Controller
             'details' => $validated['details'] ?? '',
             'image' => $filePath,
             'qualification' => $validated['qualification'],
+            'college' => $validated['college'],
+            'address' => $validated['address'],
         ];
 
         Log::info('Preparing to insert data', ['job_data' => $jobData]);
@@ -75,7 +79,7 @@ class AppliedCourseController extends Controller
 
 
     public function appliedGrid($id){
-        $data = AppliedCourse::where('jobId',$id)->get();
+        $data = AppliedCourse::where('courseId',$id)->get();
 
         if($data){
             return view('Admin.applied',['data'=>$data]);

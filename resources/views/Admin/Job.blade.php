@@ -22,19 +22,19 @@
                                             <div class="col-md-12 col-xl-12"> <!-- Full width -->
                                                 <div class="card mt-5"> <!-- Card container -->
                                                     <div class="card-body">
-                                                        <h2 class="text-center">Jobs</h2>
+                                                        <h2 class="text-center">Courses</h2>
                                                         <div class="text-left mb-3">
-                                                            <b>Total Jobs: </b>{{$total}}<br>
+                                                            <b>Total Course: </b>{{$total}}<br>
                                                             <b>Total Applied: </b>{{$totalApplied}}
                                                         </div>
                                                         <div class="text-right mb-3">
-                                                            <a href="{{ route('jobForm') }}" class="btn btn-primary">Add New Job</a>
+                                                            <a href="{{ route('jobForm') }}" class="btn btn-primary">Add New Course</a>
                                                         </div>
                                                         <div class="table-responsive"> <!-- Responsive Table Container -->
                                                             <table id="example" class="table table-striped table-bordered" style="width:100%">
                                                                 <thead>
                                                                     <tr>
-                                                                        <th>Job ID</th>
+                                                                        <th>Course ID</th>
                                                                         <th>Name</th>
                                                                         <th>Details</th>
                                                                         <th>Active</th>

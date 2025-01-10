@@ -51,6 +51,16 @@
                                                         </div>
                                                         <div class="row">
                                                             <div class="col-md-6 mb-3">
+                                                                <h6 class="text-primary"><i class="fas fa-phone"></i> College</h6>
+                                                                <p class="text-dark font-weight-bold">{{ $data->college }}</p>
+                                                            </div>
+                                                            <div class="col-md-6 mb-3">
+                                                                <h6 class="text-primary"><i class="fas fa-graduation-cap"></i> Address</h6>
+                                                                <p class="text-dark font-weight-bold">{{ $data->address }}</p>
+                                                            </div>
+                                                        </div>
+                                                        <div class="row">
+                                                            <div class="col-md-6 mb-3">
                                                                 <h6 class="text-primary"><i class="fas fa-calendar-alt"></i> Applied Date</h6>
                                                                 <p class="text-dark font-weight-bold">{{ $data->created_at }}</p> <!-- Make sure 'applied_date' exists in your data -->
                                                             </div>
@@ -74,7 +84,7 @@
                                                         <div class="row mt-3">
                                                             <div class="col-md-12 text-center">
                                                                 <a href="{{ asset($data->image) }}" class="btn btn-outline-primary" target="_blank">
-                                                                    <i class="fas fa-download"></i> Download Resume
+                                                                    <i class="fas fa-download"></i> View Image
                                                                 </a>
                                                             </div>
                                                         </div>

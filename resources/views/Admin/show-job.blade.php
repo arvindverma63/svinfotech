@@ -30,10 +30,10 @@
                                                             <h4 class="section-header">General Information</h4>
                                                             <div class="row">
                                                                 <div class="col-md-6">
-                                                                    <p><strong>Job Name:</strong> {{ $job->name }}</p>
+                                                                    <p><strong>Course Name:</strong> {{ $job->name }}</p>
                                                                 </div>
                                                                 <div class="col-md-6">
-                                                                    <p><strong>Job Title:</strong> {{ $job->title }}</p>
+                                                                    <p><strong>Course Title:</strong> {{ $job->title }}</p>
                                                                 </div>
                                                                 <div class="col-md-12">
                                                                     <p><strong>Details:</strong> {{ $job->details }}</p>
@@ -41,10 +41,10 @@
                                                             </div>
                                                             <hr>
 
-                                                            <h4 class="section-header">Location & Description</h4>
+                                                            <h4 class="section-header">Type & Description</h4>
                                                             <div class="row">
                                                                 <div class="col-md-6">
-                                                                    <p><strong>Location:</strong> {{ $job->location }}</p>
+                                                                    <p><strong>Type:</strong> {{ $job->type }}</p>
                                                                 </div>
                                                                 <div class="col-md-6">
                                                                     <p><strong>Status:</strong> {{ $job->active ? 'Active' : 'Inactive' }}</p>
@@ -58,13 +58,13 @@
                                                             </div>
                                                             <hr>
 
-                                                            <h4 class="section-header">Experience Requirements</h4>
+                                                            <h4 class="section-header">Duration</h4>
                                                             <div class="row">
                                                                 <div class="col-md-6">
-                                                                    <p><strong>Experience (Years):</strong> {{ $job->exInYear }}</p>
+                                                                    <p><strong>Duration (Years):</strong> {{ $job->exInYear }}</p>
                                                                 </div>
                                                                 <div class="col-md-6">
-                                                                    <p><strong>Experience (Months):</strong> {{ $job->exInMonth }}</p>
+                                                                    <p><strong>Duration (Months):</strong> {{ $job->exInMonth }}</p>
                                                                 </div>
                                                             </div>
                                                         </div>

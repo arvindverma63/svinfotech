@@ -40,7 +40,7 @@
             <li class="">
                 <a href="{{route('admin.jobs')}}">
                     <span class="pcoded-micon"><i class="ti-calendar"></i><b>D</b></span>
-                    <span class="pcoded-mtext" data-i18n="nav.dash.main">Jobs</span>
+                    <span class="pcoded-mtext" data-i18n="nav.dash.main">Courses</span>
                     <span class="pcoded-mcaret"></span>
                 </a>
             </li>

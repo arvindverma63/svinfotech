@@ -40,8 +40,7 @@ Route::get('/contactPage',[PageController::class,'contactPage'])->name('contact.
 
 Route::post('/applied/job', [AppliedCourseController::class, 'apply'])->name('applied.job');
 Route::post('/contact/form',[EnquiriesController::class,'postEnq'])->name('contact.form');
-Route::get('/search-job', [CourseController::class, 'searchJob']);
-
+Route::get('/courses',[PageController::class,'course']);
 // Protected routes
 Route::middleware('auth:sanctum')->group(function () {
     Route::delete('/users/{id}', [UserController::class, 'destroy']); // Delete user

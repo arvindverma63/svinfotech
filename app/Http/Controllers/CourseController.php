@@ -138,6 +138,7 @@ class CourseController extends Controller
         ]);
     }
 
+
     public function editJob(Request $request, $id)
     {
         try {

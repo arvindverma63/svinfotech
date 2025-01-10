@@ -23,7 +23,7 @@
                                             <div class="col-md-12 col-xl-12">
                                                 <div class="card">
                                                     <div class="card-header">
-                                                        <h5>Add New Job</h5>
+                                                        <h5>Add New Course</h5>
                                                     </div>
                                                     <div class="card-body">
                                                         <!-- Updated form action -->
@@ -36,7 +36,7 @@
                                                             <div class="row">
                                                                 <div class="col">
                                                                     <div class="form-group">
-                                                                        <label for="title">Job Title <span
+                                                                        <label for="title">Course Title <span
                                                                                 class="text-danger">*</span></label>
                                                                         <input type="text" class="form-control"
                                                                             id="title" name="title" required>
@@ -135,7 +135,7 @@
                                         <div class="modal-dialog" role="document">
                                             <div class="modal-content">
                                                 <div class="modal-header">
-                                                    <h5 class="modal-title" id="previewModalLabel">Job Preview</h5>
+                                                    <h5 class="modal-title" id="previewModalLabel">Course Preview</h5>
                                                     <button type="button" class="close" data-dismiss="modal"
                                                         aria-label="Close">
                                                         <span aria-hidden="true">&times;</span>
@@ -143,7 +143,7 @@
                                                 </div>
                                                 <div class="modal-body">
                                                     <p><strong>Type</strong> <span id="previewName"></span></p>
-                                                    <p><strong>Job Title:</strong> <span id="previewTitle"></span></p>
+                                                    <p><strong>Course Title:</strong> <span id="previewTitle"></span></p>
                                                     <p><strong>Details:</strong> <span id="previewDetails"></span></p>
                                                     <p><strong>Location:</strong> <span id="previewLocation"></span>
                                                     </p>
