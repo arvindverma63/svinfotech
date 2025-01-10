@@ -67,8 +67,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <h2 class="text-center mb-4">Careers at Skyda Technologies</h2>
-                        <p>At <strong>Skyda Technologies</strong>, we believe our employees are our greatest strength
+                        <h2 class="text-center mb-4">Careers at SVInfotech</h2>
+                        <p>At <strong>SVInfotech</strong>, we believe our employees are our greatest strength
                             and most valuable asset. Our team consists of skilled IT professionals dedicated to
                             delivering
                             exceptional service to our clients. We foster an environment that values creativity,
@@ -77,15 +77,15 @@
 
                         <p>If you are a talented recent graduate or an experienced professional who learns quickly,
                             consider
-                            the rewarding opportunities Skyda Technologies offers in IT and business. We are looking
+                            the rewarding opportunities SVInfotech offers in IT and business. We are looking
                             for motivated individuals who prioritize quality, teamwork, and client satisfaction.</p>
 
-                        <p>At Skyda Technologies, you’ll experience a steep learning curve, a supportive work culture,
+                        <p>At SVInfotech, you’ll experience a steep learning curve, a supportive work culture,
                             and exceptional career growth opportunities.</p>
 
                         <p class="text-center mt-4">
                             <strong>Submit your resume for consideration at:</strong>
-                            <a href="mailto:info@skydatech.com">info@skydatech.com</a>
+                            <a href="mailto:officialsv@skydatech.com">officialsv@skydatech.com</a>
                         </p>
                     </div>
                 </div>

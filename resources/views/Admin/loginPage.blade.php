@@ -95,7 +95,7 @@
                                             </label>
                                         </div>
                                     </div>
-                                 
+
                                 </div>
                                 <div class="row m-t-30">
                                     <div class="col-md-12">
@@ -106,7 +106,7 @@
                                 <div class="row">
                                     <div class="col-md-10">
                                         <p class="text-inverse text-left m-b-0">Developed By</p>
-                                        <p class="text-inverse text-left"><a href="https://backendcodersindia.com"><b>Backend Coders India</b></a></p>
+                                        <p class="text-inverse text-left"><a href="https://svinfotech.co.in"><b>SVINFOTECH (ARVIND)</b></a></p>
                                     </div>
                                 </div>
                             </div>
