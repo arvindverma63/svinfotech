@@ -98,7 +98,7 @@ class PageController extends Controller
         $data = Course::where('active', 1)->get();
 
         if ($data->isEmpty()) {
-            return view('career', [
+            return view('website.courses', [
                 'data' => [],
                 'message' => 'There are no jobs available at the moment.'
             ]);

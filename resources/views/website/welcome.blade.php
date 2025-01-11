@@ -325,41 +325,45 @@
 
                     <div class="col-xl-3 col-md-6" data-aos="zoom-in" data-aos-delay="100">
                         <div class="feature-box orange">
-                            <i class="bi bi-award"></i>
-                            <h4>Corporis voluptates</h4>
-                            <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+                            <i class="bi bi-laptop"></i>
+                            <h4>Web Development</h4>
+                            <p>We specialize in creating dynamic and responsive websites tailored to your business
+                                needs.</p>
                         </div>
-                    </div><!-- End Feature Borx-->
+                    </div><!-- End Feature Box-->
 
                     <div class="col-xl-3 col-md-6" data-aos="zoom-in" data-aos-delay="200">
                         <div class="feature-box blue">
-                            <i class="bi bi-patch-check"></i>
-                            <h4>Explicabo consectetur</h4>
-                            <p>Est autem dicta beatae suscipit. Sint veritatis et sit quasi ab aut inventore</p>
+                            <i class="bi bi-phone"></i>
+                            <h4>App Development</h4>
+                            <p>Build cutting-edge mobile applications to deliver seamless user experiences across
+                                devices.</p>
                         </div>
-                    </div><!-- End Feature Borx-->
+                    </div><!-- End Feature Box-->
 
                     <div class="col-xl-3 col-md-6" data-aos="zoom-in" data-aos-delay="300">
                         <div class="feature-box green">
-                            <i class="bi bi-sunrise"></i>
-                            <h4>Ullamco laboris</h4>
-                            <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                            <i class="bi bi-people"></i>
+                            <h4>Industrial Training</h4>
+                            <p>Empower yourself with hands-on training in the latest technologies and tools.</p>
                         </div>
-                    </div><!-- End Feature Borx-->
+                    </div><!-- End Feature Box-->
 
                     <div class="col-xl-3 col-md-6" data-aos="zoom-in" data-aos-delay="400">
                         <div class="feature-box red">
-                            <i class="bi bi-shield-check"></i>
-                            <h4>Labore consequatur</h4>
-                            <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+                            <i class="bi bi-shield-lock"></i>
+                            <h4>Secure Software Solutions</h4>
+                            <p>Delivering robust and secure software to streamline business operations and enhance
+                                efficiency.</p>
                         </div>
-                    </div><!-- End Feature Borx-->
+                    </div><!-- End Feature Box-->
 
                 </div>
 
             </div>
 
         </section><!-- /Features Cards Section -->
+
 
         <!-- Features 2 Section -->
         <section id="features-2" class="features-2 section">
@@ -618,7 +622,8 @@
 
                     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="testimonial-item">
-                            <img src="web/assets/img/testimonials/hs.jpg" class="testimonial-img" alt="Himanshu Singh">
+                            <img src="web/assets/img/testimonials/hs.jpg" class="testimonial-img"
+                                alt="Himanshu Singh">
                             <h3>Himanshu Singh</h3>
                             <h4>IT Expert</h4>
                             <div class="stars">
@@ -656,7 +661,8 @@
 
                     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
                         <div class="testimonial-item">
-                            <img src="web/assets/img/testimonials/mp.jpg" class="testimonial-img" alt="Mrinal Pandey">
+                            <img src="web/assets/img/testimonials/mp.jpg" class="testimonial-img"
+                                alt="Mrinal Pandey">
                             <h3>Mrinal Pandey</h3>
                             <h4>AI & Data Science Expert</h4>
                             <div class="stars">
@@ -963,98 +969,111 @@
 
 
         <!-- FAQ Section -->
-<section class="faq-9 faq section light-background" id="faq">
+        <section class="faq-9 faq section light-background" id="faq">
 
-    <div class="container">
-        <div class="row">
+            <div class="container">
+                <div class="row">
 
-            <div class="col-lg-5" data-aos="fade-up">
-                <h2 class="faq-title">Have a question? Check out the FAQ</h2>
-                <p class="faq-description">Find answers to common questions about our training programs in Web Development, App Development, and Software Development.</p>
-                <div class="faq-arrow d-none d-lg-block" data-aos="fade-up" data-aos-delay="200">
-                    <svg class="faq-arrow" width="200" height="211" viewBox="0 0 200 211"
-                        fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path
-                            d="M198.804 194.488C189.279 189.596 179.529 185.52 169.407 182.07L169.384 182.049C169.227 181.994 169.07 181.939 168.912 181.884C166.669 181.139 165.906 184.546 167.669 185.615C174.053 189.473 182.761 191.837 189.146 195.695C156.603 195.912 119.781 196.591 91.266 179.049C62.5221 161.368 48.1094 130.695 56.934 98.891C84.5539 98.7247 112.556 84.0176 129.508 62.667C136.396 53.9724 146.193 35.1448 129.773 30.2717C114.292 25.6624 93.7109 41.8875 83.1971 51.3147C70.1109 63.039 59.63 78.433 54.2039 95.0087C52.1221 94.9842 50.0776 94.8683 48.0703 94.6608C30.1803 92.8027 11.2197 83.6338 5.44902 65.1074C-1.88449 41.5699 14.4994 19.0183 27.9202 1.56641C28.6411 0.625793 27.2862 -0.561638 26.5419 0.358501C13.4588 16.4098 -0.221091 34.5242 0.896608 56.5659C1.8218 74.6941 14.221 87.9401 30.4121 94.2058C37.7076 97.0203 45.3454 98.5003 53.0334 98.8449C47.8679 117.532 49.2961 137.487 60.7729 155.283C87.7615 197.081 139.616 201.147 184.786 201.155L174.332 206.827C172.119 208.033 174.345 211.287 176.537 210.105C182.06 207.125 187.582 204.122 193.084 201.144C193.346 201.147 195.161 199.887 195.423 199.868C197.08 198.548 193.084 201.144 195.528 199.81C196.688 199.192 197.846 198.552 199.006 197.935C200.397 197.167 200.007 195.087 198.804 194.488ZM60.8213 88.0427C67.6894 72.648 78.8538 59.1566 92.1207 49.0388C98.8475 43.9065 106.334 39.2953 114.188 36.1439C117.295 34.8947 120.798 33.6609 124.168 33.635C134.365 33.5511 136.354 42.9911 132.638 51.031C120.47 77.4222 86.8639 93.9837 58.0983 94.9666C58.8971 92.6666 59.783 90.3603 60.8213 88.0427Z"
-                            fill="currentColor"></path>
-                    </svg>
+                    <div class="col-lg-5" data-aos="fade-up">
+                        <h2 class="faq-title">Have a question? Check out the FAQ</h2>
+                        <p class="faq-description">Find answers to common questions about our training programs in Web
+                            Development, App Development, and Software Development.</p>
+                        <div class="faq-arrow d-none d-lg-block" data-aos="fade-up" data-aos-delay="200">
+                            <svg class="faq-arrow" width="200" height="211" viewBox="0 0 200 211"
+                                fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M198.804 194.488C189.279 189.596 179.529 185.52 169.407 182.07L169.384 182.049C169.227 181.994 169.07 181.939 168.912 181.884C166.669 181.139 165.906 184.546 167.669 185.615C174.053 189.473 182.761 191.837 189.146 195.695C156.603 195.912 119.781 196.591 91.266 179.049C62.5221 161.368 48.1094 130.695 56.934 98.891C84.5539 98.7247 112.556 84.0176 129.508 62.667C136.396 53.9724 146.193 35.1448 129.773 30.2717C114.292 25.6624 93.7109 41.8875 83.1971 51.3147C70.1109 63.039 59.63 78.433 54.2039 95.0087C52.1221 94.9842 50.0776 94.8683 48.0703 94.6608C30.1803 92.8027 11.2197 83.6338 5.44902 65.1074C-1.88449 41.5699 14.4994 19.0183 27.9202 1.56641C28.6411 0.625793 27.2862 -0.561638 26.5419 0.358501C13.4588 16.4098 -0.221091 34.5242 0.896608 56.5659C1.8218 74.6941 14.221 87.9401 30.4121 94.2058C37.7076 97.0203 45.3454 98.5003 53.0334 98.8449C47.8679 117.532 49.2961 137.487 60.7729 155.283C87.7615 197.081 139.616 201.147 184.786 201.155L174.332 206.827C172.119 208.033 174.345 211.287 176.537 210.105C182.06 207.125 187.582 204.122 193.084 201.144C193.346 201.147 195.161 199.887 195.423 199.868C197.08 198.548 193.084 201.144 195.528 199.81C196.688 199.192 197.846 198.552 199.006 197.935C200.397 197.167 200.007 195.087 198.804 194.488ZM60.8213 88.0427C67.6894 72.648 78.8538 59.1566 92.1207 49.0388C98.8475 43.9065 106.334 39.2953 114.188 36.1439C117.295 34.8947 120.798 33.6609 124.168 33.635C134.365 33.5511 136.354 42.9911 132.638 51.031C120.47 77.4222 86.8639 93.9837 58.0983 94.9666C58.8971 92.6666 59.783 90.3603 60.8213 88.0427Z"
+                                    fill="currentColor"></path>
+                            </svg>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-7" data-aos="fade-up" data-aos-delay="300">
+                        <div class="faq-container">
+
+                            <div class="faq-item faq-active">
+                                <h3>What is included in your Web Development training program?</h3>
+                                <div class="faq-content">
+                                    <p>Our Web Development program covers HTML, CSS, JavaScript, responsive design, and
+                                        the latest web development frameworks to ensure you can build modern, responsive
+                                        websites.</p>
+                                </div>
+                                <i class="faq-toggle bi bi-chevron-right"></i>
+                            </div><!-- End Faq item-->
+
+                            <div class="faq-item">
+                                <h3>What mobile app platforms do you cover in the App Development program?</h3>
+                                <div class="faq-content">
+                                    <p>Our App Development program includes both Android and iOS platforms, with an
+                                        emphasis on cross-platform development tools like React Native and Flutter.</p>
+                                </div>
+                                <i class="faq-toggle bi bi-chevron-right"></i>
+                            </div><!-- End Faq item-->
+
+                            <div class="faq-item">
+                                <h3>What is the difference between the Web Development and Software Development
+                                    programs?</h3>
+                                <div class="faq-content">
+                                    <p>The Web Development program focuses on front-end and back-end web technologies,
+                                        while the Software Development program dives deeper into languages like Java,
+                                        Python, and C++ for creating desktop and enterprise applications.</p>
+                                </div>
+                                <i class="faq-toggle bi bi-chevron-right"></i>
+                            </div><!-- End Faq item-->
+
+                            <div class="faq-item">
+                                <h3>Do you offer job placement assistance after completing the training?</h3>
+                                <div class="faq-content">
+                                    <p>Yes! We provide career support, including job placement assistance, resume
+                                        building, and interview preparation, to help you land your first job in the
+                                        industry.</p>
+                                </div>
+                                <i class="faq-toggle bi bi-chevron-right"></i>
+                            </div><!-- End Faq item-->
+
+                            <div class="faq-item">
+                                <h3>How long is each training program?</h3>
+                                <div class="faq-content">
+                                    <p>Each training program typically lasts 3-6 months, depending on the course and
+                                        your pace. You can choose between part-time and full-time schedules.</p>
+                                </div>
+                                <i class="faq-toggle bi bi-chevron-right"></i>
+                            </div><!-- End Faq item-->
+
+                            <div class="faq-item">
+                                <h3>Can I access the course materials after the program is over?</h3>
+                                <div class="faq-content">
+                                    <p>Yes, you will have lifelong access to the course materials, including any updates
+                                        and additional resources we provide after completion.</p>
+                                </div>
+                                <i class="faq-toggle bi bi-chevron-right"></i>
+                            </div><!-- End Faq item-->
+
+                        </div>
+                    </div>
+
                 </div>
             </div>
-
-            <div class="col-lg-7" data-aos="fade-up" data-aos-delay="300">
-                <div class="faq-container">
-
-                    <div class="faq-item faq-active">
-                        <h3>What is included in your Web Development training program?</h3>
-                        <div class="faq-content">
-                            <p>Our Web Development program covers HTML, CSS, JavaScript, responsive design, and the latest web development frameworks to ensure you can build modern, responsive websites.</p>
-                        </div>
-                        <i class="faq-toggle bi bi-chevron-right"></i>
-                    </div><!-- End Faq item-->
-
-                    <div class="faq-item">
-                        <h3>What mobile app platforms do you cover in the App Development program?</h3>
-                        <div class="faq-content">
-                            <p>Our App Development program includes both Android and iOS platforms, with an emphasis on cross-platform development tools like React Native and Flutter.</p>
-                        </div>
-                        <i class="faq-toggle bi bi-chevron-right"></i>
-                    </div><!-- End Faq item-->
-
-                    <div class="faq-item">
-                        <h3>What is the difference between the Web Development and Software Development programs?</h3>
-                        <div class="faq-content">
-                            <p>The Web Development program focuses on front-end and back-end web technologies, while the Software Development program dives deeper into languages like Java, Python, and C++ for creating desktop and enterprise applications.</p>
-                        </div>
-                        <i class="faq-toggle bi bi-chevron-right"></i>
-                    </div><!-- End Faq item-->
-
-                    <div class="faq-item">
-                        <h3>Do you offer job placement assistance after completing the training?</h3>
-                        <div class="faq-content">
-                            <p>Yes! We provide career support, including job placement assistance, resume building, and interview preparation, to help you land your first job in the industry.</p>
-                        </div>
-                        <i class="faq-toggle bi bi-chevron-right"></i>
-                    </div><!-- End Faq item-->
-
-                    <div class="faq-item">
-                        <h3>How long is each training program?</h3>
-                        <div class="faq-content">
-                            <p>Each training program typically lasts 3-6 months, depending on the course and your pace. You can choose between part-time and full-time schedules.</p>
-                        </div>
-                        <i class="faq-toggle bi bi-chevron-right"></i>
-                    </div><!-- End Faq item-->
-
-                    <div class="faq-item">
-                        <h3>Can I access the course materials after the program is over?</h3>
-                        <div class="faq-content">
-                            <p>Yes, you will have lifelong access to the course materials, including any updates and additional resources we provide after completion.</p>
-                        </div>
-                        <i class="faq-toggle bi bi-chevron-right"></i>
-                    </div><!-- End Faq item-->
-
-                </div>
-            </div>
-
-        </div>
-    </div>
-</section><!-- /FAQ Section -->
+        </section><!-- /FAQ Section -->
 
         <!-- Call To Action 2 Section -->
-<section id="call-to-action-2" class="call-to-action-2 section dark-background">
+        <section id="call-to-action-2" class="call-to-action-2 section dark-background">
 
-    <div class="container">
-        <div class="row justify-content-center" data-aos="zoom-in" data-aos-delay="100">
-            <div class="col-xl-10">
-                <div class="text-center">
-                    <h3>Start Your Career in Tech Today</h3>
-                    <p>Ready to jumpstart your career in web development, app development, or software development? Join our industry-leading training programs and gain hands-on experience that prepares you for the workforce.</p>
-                    <a class="cta-btn" href="#">Enroll Now</a>
+            <div class="container">
+                <div class="row justify-content-center" data-aos="zoom-in" data-aos-delay="100">
+                    <div class="col-xl-10">
+                        <div class="text-center">
+                            <h3>Start Your Career in Tech Today</h3>
+                            <p>Ready to jumpstart your career in web development, app development, or software
+                                development? Join our industry-leading training programs and gain hands-on experience
+                                that prepares you for the workforce.</p>
+                            <a class="cta-btn" href="/courses">Enroll Now</a>
+                        </div>
+                    </div>
                 </div>
             </div>
-        </div>
-    </div>
 
-</section><!-- /Call To Action 2 Section -->
+        </section><!-- /Call To Action 2 Section -->
 
 
         <!-- Contact Section -->
@@ -1080,7 +1099,7 @@
                                 </div>
                                 <div class="content">
                                     <h4>Our Location</h4>
-                                    <p> Vishambhar sadan 2 Lakhanpur Vikas Nagar                                    </p>
+                                    <p> Vishambhar sadan 2 Lakhanpur Vikas Nagar </p>
                                     <p>Kanpur, Uttar Pradesh 208024</p>
                                 </div>
                             </div>
@@ -1111,37 +1130,46 @@
                     <div class="col-lg-7">
                         <div class="contact-form" data-aos="fade-up" data-aos-delay="300">
                             <h3>Get In Touch</h3>
-                            <p>Have any questions about our programs or want to know more? We'd love to hear from you.</p>
+                            <p>Have any questions about our programs or want to know more? We'd love to hear from you.
+                            </p>
 
-                            <form action="forms/contact.php" method="post" class="php-email-form" data-aos="fade-up" data-aos-delay="200">
+                            <form id="contact_form" class="php-email-form" data-aos="fade-up" data-aos-delay="200">
+                                <input type="hidden" name="_token" value="{{ csrf_token() }}">
                                 <div class="row gy-4">
-
                                     <div class="col-md-6">
-                                        <input type="text" name="name" class="form-control" placeholder="Your Name" required="">
+                                        <input type="text" name="fullName" class="form-control" id="name"
+                                            placeholder="Your Name" required>
                                     </div>
-
                                     <div class="col-md-6">
-                                        <input type="email" class="form-control" name="email" placeholder="Your Email" required="">
+                                        <input type="email" class="form-control" name="email" id="email"
+                                            placeholder="Your Email" required>
                                     </div>
-
                                     <div class="col-12">
-                                        <input type="text" class="form-control" name="subject" placeholder="Subject" required="">
+                                        <input type="text" class="form-control" name="phoneNumber" id="phone"
+                                            placeholder="Subject" required>
                                     </div>
-
                                     <div class="col-12">
-                                        <textarea class="form-control" name="message" rows="6" placeholder="Message" required=""></textarea>
+                                        <textarea class="form-control" name="body" id="message" rows="6" placeholder="Message" required></textarea>
                                     </div>
-
+                                    <div class="mb-3">
+                                        <label class="form-label text-black">CAPTCHA</label>
+                                        <div class="d-flex align-items-center">
+                                            <span id="captcha_value" class="text-black me-3 mb-0"></span>
+                                            <input type="text" class="form-control" id="captcha_input"
+                                                placeholder="Enter CAPTCHA" required>
+                                            <button type="button" class="btn btn-secondary ms-3"
+                                                onclick="generateCaptcha()">Refresh</button>
+                                        </div>
+                                    </div>
                                     <div class="col-12 text-center">
-                                        <div class="loading">Loading</div>
-                                        <div class="error-message"></div>
+                                        <div class="loading d-none" id="button_spinner">Loading...</div>
                                         <div class="sent-message">Your message has been sent. Thank you!</div>
-
-                                        <button type="submit" class="btn">Send Message</button>
+                                        <button type="submit" class="btn" id="send_message">Send Message</button>
                                     </div>
-
                                 </div>
                             </form>
+
+
 
                         </div>
                     </div>
@@ -1154,8 +1182,15 @@
 
 
     </main>
+    <!-- Include SweetAlert2 -->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 
-   @include('website.partials.footer')
+    <script src="{{ asset('clients/js/contact.js') }}?v={{ time() }}"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous">
+    </script>
+
+    @include('website.partials.footer')
 
     <!-- Scroll Top -->
     <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i

@@ -40,7 +40,7 @@
                                                                 <tbody>
                                                                     @foreach($data as $job)
                                                                         <tr>
-                                                                            <td>{{ $job->id }}</td>
+                                                                            <td>{{ $job->registrationNumber }}</td>
                                                                             <td>{{ $job->name }}</td>
                                                                             <td>{{ $job->email }}</td>
                                                                             <td>

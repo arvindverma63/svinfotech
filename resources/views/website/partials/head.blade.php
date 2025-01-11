@@ -22,3 +22,4 @@
 
 <!-- Main CSS File -->
 <link href="{{ asset('web/assets/css/main.css') }}" rel="stylesheet">
+<meta name="csrf-token" content="{{ csrf_token() }}">

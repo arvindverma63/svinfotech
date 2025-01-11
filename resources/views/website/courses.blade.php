@@ -100,6 +100,12 @@
 
         <section class="job-listing py-5">
             <div class="container">
+                @if ($data == null)
+                <div class="alert alert-primary alert-dismissible fade show" role="alert">
+                    Currenty there is not Vacancy
+                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                </div>
+                @endif
                 @foreach ($data as $job)
                     <div class="job-card">
                         <div class="job-info">
