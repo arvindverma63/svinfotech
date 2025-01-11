@@ -22,5 +22,6 @@ class AppliedCourse extends Model
         'signature',
         'resume',
         'courseId',
+        'registrationNumber'
     ];
 }
